@@ -1,31 +1,43 @@
 {
 	"0": {
-		"name": "Pterocarpus indicus",
-		"common_name": "Angsana"
+		"name": "Diospyros tristis",
+		"common_name": "Diospyros tristis"
+	},
+	"2": {
+		"name": "Aeschynanthus pulcher",
+		"common_name": "口红花"
 	},
 	"5": {
 		"name": "Afgekia sericea",
 		"common_name": "Kan Phai"
 	},
+	"7": {
+		"name": "Allamanda cathartica",
+		"common_name": "Golden-trumpet"
+	},
+	"31": {
+		"name": "Bauhinia sp. (green leaves, red undersides)",
+		"common_name": null
+	},
 	"47": {
 		"name": "Bougainvillea 'Mrs Eva'",
 		"common_name": null
-	},
-	"88": {
-		"name": "Dioscorea sansibarensis",
-		"common_name": "Zanzibar Yam"
 	},
 	"106": {
 		"name": "Ficus consociata var. murtoni",
 		"common_name": "Pianggu Hutan"
 	},
-	"170": {
-		"name": "Passiflora foetida",
-		"common_name": "Wild Water Lemon"
+	"148": {
+		"name": "Dolichandra unguis-cati",
+		"common_name": "Bejuco"
 	},
-	"292": {
-		"name": "Acalypha siamensis",
-		"common_name": "Teh Kampong"
+	"223": {
+		"name": "Thunbergia fragrans",
+		"common_name": "Fragrant Thunbergia"
+	},
+	"300": {
+		"name": "Adenium obesum",
+		"common_name": "Impala Lily"
 	},
 	"418": {
 		"name": "Bambusa multiplex",
@@ -34,6 +46,10 @@
 	"421": {
 		"name": "Baphia nitida",
 		"common_name": "African Sandlewood"
+	},
+	"426": {
+		"name": "Bauhinia galpinii",
+		"common_name": "Red Bauhinia"
 	},
 	"431": {
 		"name": "Bixa orellana",
@@ -47,10 +63,6 @@
 		"name": "Caesalpinia pulcherrima",
 		"common_name": "Barbados Flower Fence"
 	},
-	"447": {
-		"name": "Caladium bicolor",
-		"common_name": "Angel Wings"
-	},
 	"472": {
 		"name": "Calliandra haematocephala",
 		"common_name": "Red Powderpuff"
@@ -63,25 +75,21 @@
 		"name": "Cananga odorata var. fruticosa",
 		"common_name": "Dwarf Ylang-Ylang Tree"
 	},
-	"487": {
-		"name": "Carludovica palmata",
-		"common_name": "Hippa-happa"
-	},
 	"493": {
 		"name": "Senna surattensis",
 		"common_name": "Kolomona"
+	},
+	"505": {
+		"name": "Cestrum diurnum",
+		"common_name": "Day Cestrum"
 	},
 	"518": {
 		"name": "Citrus limon 'Ponderosa'",
 		"common_name": "Ponderosa Lemon"
 	},
-	"522": {
-		"name": "Clerodendrum bungei",
-		"common_name": "Glory Flower"
-	},
-	"541": {
-		"name": "Combretum constrictum",
-		"common_name": "Thailand Powderpuff"
+	"535": {
+		"name": "Clerodendrum laevifolium",
+		"common_name": "Nodding Clerodendron"
 	},
 	"542": {
 		"name": "Combretum erythrophyllum",
@@ -93,7 +101,7 @@
 	},
 	"658": {
 		"name": "Dracaena fragrans",
-		"common_name": "Senjuang Wangi"
+		"common_name": "Palmillo"
 	},
 	"659": {
 		"name": "Dracaena fragrans 'Lemon Lime'",
@@ -111,9 +119,13 @@
 		"name": "Eugenia uniflora",
 		"common_name": "Cayenne Cherry"
 	},
-	"712": {
-		"name": "Euphorbia pulcherrima",
-		"common_name": "Easter Flower"
+	"713": {
+		"name": "Euphorbia tirucalli",
+		"common_name": "Finger Tree"
+	},
+	"715": {
+		"name": "Excoecaria cochinchinensis",
+		"common_name": "红背桂"
 	},
 	"717": {
 		"name": "Fagraea auriculata",
@@ -123,6 +135,10 @@
 		"name": "Ficus deltoidea",
 		"common_name": "Mistletoe Rubber Plant"
 	},
+	"732": {
+		"name": "Gardenia mutabilis",
+		"common_name": "泰国栀子"
+	},
 	"741": {
 		"name": "Gmelina philippinensis",
 		"common_name": "Bulongan"
@@ -131,25 +147,29 @@
 		"name": "Grevillea banksii",
 		"common_name": "Red Silky Oak"
 	},
-	"753": {
-		"name": "Gustavia gracillima",
-		"common_name": "Narrow-leaved Gustavia"
-	},
 	"802": {
 		"name": "Hibiscus schizopetalus",
 		"common_name": "Shoe-flower"
 	},
 	"805": {
-		"name": "Talipariti tiliaceum (dwarf)",
+		"name": "Hibiscus tiliaceus (dwarf)",
 		"common_name": "Dwarf Sea Hibiscus"
 	},
 	"837": {
-		"name": "Mangifera indica L.",
+		"name": "Ixora 'Dwarf Yellow'",
 		"common_name": null
+	},
+	"839": {
+		"name": "Ixora grandifolia",
+		"common_name": "Belat"
 	},
 	"879": {
 		"name": "Lagerstroemia indica",
 		"common_name": "Crepe Flower"
+	},
+	"880": {
+		"name": "Lagerstroemia indica (Pale Pink Flower)",
+		"common_name": "Crape Myrtle"
 	},
 	"881": {
 		"name": "Lagerstroemia indica (Pink Flower)",
@@ -167,9 +187,17 @@
 		"name": "Leea indica",
 		"common_name": "Jolok-Jolok"
 	},
+	"898": {
+		"name": "Leea rubra",
+		"common_name": "Mali-Mali Puchuk Merah"
+	},
+	"901": {
+		"name": "Leucophyllum frutescens",
+		"common_name": "Ash Plant"
+	},
 	"927": {
 		"name": "Melastoma malabathricum",
-		"common_name": "Malabar Gooseberry"
+		"common_name": "Singapore Rhododendron"
 	},
 	"929": {
 		"name": "Memecylon caeruleum",
@@ -178,10 +206,6 @@
 	"930": {
 		"name": "Magnolia figo",
 		"common_name": "Portwine Magnolia"
-	},
-	"942": {
-		"name": "Montrichardia arborescens",
-		"common_name": null
 	},
 	"944": {
 		"name": "Murraya koenigii",
@@ -193,35 +217,47 @@
 	},
 	"947": {
 		"name": "Musa acuminata var. sumatrana",
-		"common_name": "Blood Banana"
+		"common_name": "美叶芭蕉"
 	},
 	"951": {
 		"name": "Musa ornata",
-		"common_name": "Flowering Banana"
+		"common_name": "紫梦幻蕉"
 	},
 	"953": {
 		"name": "Musa sp.",
 		"common_name": null
 	},
-	"975": {
-		"name": "Beaucarnea recurvata",
-		"common_name": "Elephant-foot Tree"
+	"962": {
+		"name": "Syzygium buxifolium",
+		"common_name": "Fish-Scale Bush"
+	},
+	"970": {
+		"name": "Nerium oleander",
+		"common_name": "Rose Bay"
+	},
+	"976": {
+		"name": "Nyctanthes arbor-tristis",
+		"common_name": "Seri Gading"
 	},
 	"979": {
 		"name": "Ochna kirkii",
 		"common_name": "Bird's Eye Bush"
 	},
-	"1005": {
-		"name": "Pandanus amaryllifolius",
-		"common_name": "Pandan"
-	},
 	"1008": {
 		"name": "Pandanus tectorius",
 		"common_name": "Screw Pine"
 	},
+	"1009": {
+		"name": "Pandanus tectorius cultivar",
+		"common_name": "Variegated Screw Pine"
+	},
 	"1011": {
 		"name": "Pandanus utilis",
 		"common_name": "Screw Pine"
+	},
+	"1036": {
+		"name": "Phenakospermum guyannense",
+		"common_name": "South American Traveller's Palm"
 	},
 	"1039": {
 		"name": "Phyllanthus cochinchinensis",
@@ -230,6 +266,10 @@
 	"1040": {
 		"name": "Phyllanthus cuscutiflorus",
 		"common_name": "Pink Phyllanthus"
+	},
+	"1041": {
+		"name": "Phyllanthus myrtifolius",
+		"common_name": "Mousetail Plant"
 	},
 	"1081": {
 		"name": "Psidium guajava",
@@ -241,31 +281,35 @@
 	},
 	"1087": {
 		"name": "Quassia amara",
-		"common_name": "Surinam Quassia"
+		"common_name": "Bitterwood"
 	},
 	"1088": {
 		"name": "Radermachera 'Kunming'",
 		"common_name": "Peep Thong"
+	},
+	"1099": {
+		"name": "Rondeletia odorata",
+		"common_name": "Fragrant Panama Rose"
 	},
 	"1116": {
 		"name": "Ruta graveolens",
 		"common_name": "Herb of Grace"
 	},
 	"1139": {
-		"name": "Schefflera arboricola",
+		"name": "Heptapleurum arboricola",
 		"common_name": "Umbrella Shrub"
+	},
+	"1141": {
+		"name": "Schefflera (yellow-green leaves, wavy margins)",
+		"common_name": null
 	},
 	"1157": {
 		"name": "Senna alata",
 		"common_name": "Empress Candle Plant"
 	},
-	"1165": {
-		"name": "Solanum mammosum",
-		"common_name": "Macaw Bush"
-	},
 	"1192": {
 		"name": "Tabernaemontana corymbosa",
-		"common_name": "Flower of Love"
+		"common_name": "Jelutong Badak"
 	},
 	"1195": {
 		"name": "Tabernaemontana divaricata",
@@ -275,20 +319,16 @@
 		"name": "Tecoma capensis",
 		"common_name": "West Indian Honeysuckle"
 	},
-	"1206": {
-		"name": "Tecoma capensis 'Aurea'",
-		"common_name": "Aurea Cape Honeysuckle"
-	},
 	"1212": {
 		"name": "Cascabela thevetia",
 		"common_name": "Zetung"
 	},
 	"1254": {
 		"name": "Vitex trifolia",
-		"common_name": "Muning"
+		"common_name": "Common Blue Vitex"
 	},
 	"1256": {
-		"name": "Vitex trifolia var. obovata",
+		"name": "Vitex rotundifolia",
 		"common_name": "Single-Leaf Chastetree"
 	},
 	"1263": {
@@ -304,7 +344,7 @@
 		"common_name": "Sago Cycad"
 	},
 	"1286": {
-		"name": "Cycas rumphii Miq.",
+		"name": "Cycas rumphii",
 		"common_name": "Malayan Fern Palm"
 	},
 	"1293": {
@@ -319,10 +359,6 @@
 		"name": "Areca catechu (Dwarf)",
 		"common_name": "Dwarf Betel Nut Palm"
 	},
-	"1296": {
-		"name": "Areca catechu var. alba",
-		"common_name": "White Betel Nut Palm"
-	},
 	"1297": {
 		"name": "Areca vestiaria",
 		"common_name": "Pinang Yaki"
@@ -333,7 +369,7 @@
 	},
 	"1301": {
 		"name": "Arenga westerhoutii",
-		"common_name": "Westerhout's Sugar Palm"
+		"common_name": "Langkap, Westerhout's Sugar Palm"
 	},
 	"1304": {
 		"name": "Beccariophoenix madagascariensis",
@@ -345,7 +381,7 @@
 	},
 	"1306": {
 		"name": "Bismarckia nobilis",
-		"common_name": "Bismarck Palm"
+		"common_name": "Satra Palm"
 	},
 	"1307": {
 		"name": "Bismarckia nobilis 'Silver'",
@@ -359,13 +395,9 @@
 		"name": "Borassus flabellifer",
 		"common_name": "Tah"
 	},
-	"1312": {
-		"name": "Calyptronoma occidentalis",
-		"common_name": "Long Thatch"
-	},
 	"1313": {
 		"name": "Carpentaria acuminata",
-		"common_name": "Carpentaria Palm"
+		"common_name": "东澳棕"
 	},
 	"1314": {
 		"name": "Caryota mitis",
@@ -379,9 +411,9 @@
 		"name": "Caryota rumphiana",
 		"common_name": "Solitary Fish Tail Palm"
 	},
-	"1318": {
-		"name": "Chamaedorea cataractarum",
-		"common_name": "Cat Palm"
+	"1317": {
+		"name": "Caryota zebrina",
+		"common_name": "Zebra Fishtail Palm"
 	},
 	"1320": {
 		"name": "Chambeyronia macrocarpa",
@@ -401,7 +433,7 @@
 	},
 	"1325": {
 		"name": "Cyrtostachys renda",
-		"common_name": "Red Sealing Wax"
+		"common_name": "Red Sealing Wax, Sealing-wax Palm, Lipstick Palm, Maharajah Palm, Pinang Rajah"
 	},
 	"1326": {
 		"name": "Dictyosperma album",
@@ -409,7 +441,7 @@
 	},
 	"1327": {
 		"name": "Dypsis decaryi",
-		"common_name": "Three-sided Palm"
+		"common_name": "Three-ranked Palm"
 	},
 	"1328": {
 		"name": "Dypsis leptocheilos",
@@ -437,19 +469,15 @@
 	},
 	"1335": {
 		"name": "Euterpe oleracea",
-		"common_name": "Assai Palm"
+		"common_name": "Cabbage Palm"
 	},
 	"1338": {
 		"name": "Hyophorbe lagenicaulis",
-		"common_name": "Bottle Palm"
+		"common_name": "Champagne Bottle Palm"
 	},
 	"1339": {
 		"name": "Iguanura wallichiana",
 		"common_name": "Pinang Burung"
-	},
-	"1341": {
-		"name": "Johannesteijsmannia lanceolata",
-		"common_name": "Narrow-leafed Umbrella Palm"
 	},
 	"1342": {
 		"name": "Kerriodoxa elegans",
@@ -465,7 +493,7 @@
 	},
 	"1345": {
 		"name": "Latania verschaffeltii",
-		"common_name": "Yellow Latan Palm"
+		"common_name": "黃金棕櫚"
 	},
 	"1346": {
 		"name": "Licuala bintuluensis",
@@ -537,7 +565,7 @@
 	},
 	"1368": {
 		"name": "Phoenicophorium borsigianum",
-		"common_name": "Latanier Palm"
+		"common_name": "Stevensonia Palm"
 	},
 	"1369": {
 		"name": "Phoenix canariensis",
@@ -555,10 +583,6 @@
 		"name": "Phoenix sylvestris",
 		"common_name": "India Date"
 	},
-	"1375": {
-		"name": "Pinanga coronata",
-		"common_name": "Ivory Cane Palm"
-	},
 	"1377": {
 		"name": "Pinanga patula",
 		"common_name": "Pinang"
@@ -569,19 +593,15 @@
 	},
 	"1380": {
 		"name": "Ptychosperma macarthurii",
-		"common_name": "Cluster Palm"
+		"common_name": "Hurricane Palm"
 	},
 	"1382": {
 		"name": "Ravenea rivularis",
 		"common_name": "Majestic Palm"
 	},
-	"1383": {
-		"name": "Rhapis excelsa",
-		"common_name": "Bamboo Palm"
-	},
 	"1387": {
 		"name": "Rhopaloblaste singaporensis",
-		"common_name": "Singapore Walking-Stick Palm"
+		"common_name": "Kerinting"
 	},
 	"1388": {
 		"name": "Roystonea oleracea",
@@ -607,10 +627,6 @@
 		"name": "Satakentia liukiuensis",
 		"common_name": "Satake Palm"
 	},
-	"1394": {
-		"name": "Thrinax parviflora",
-		"common_name": "Broom Palm"
-	},
 	"1395": {
 		"name": "Adonidia merrillii",
 		"common_name": "Christmas Palm"
@@ -629,19 +645,19 @@
 	},
 	"1400": {
 		"name": "Acacia auriculiformis",
-		"common_name": "Yellow Wattle"
+		"common_name": "Earleaf Acacia"
 	},
 	"1402": {
 		"name": "Acacia mangium",
-		"common_name": "Tongke Hutan"
+		"common_name": "Brown Salwood"
 	},
 	"1403": {
 		"name": "Adansonia digitata",
-		"common_name": "Dead Rat Tree"
+		"common_name": "Baobab, Dead Rat Tree, Monkey Bread, Cream of Tartar Tree, Ethiopian Sour Gourd, Upside-down Tree"
 	},
 	"1404": {
 		"name": "Adenanthera pavonina",
-		"common_name": "Coral Bean Tree"
+		"common_name": "Suga"
 	},
 	"1405": {
 		"name": "Adinandra dumosa",
@@ -665,7 +681,7 @@
 	},
 	"1410": {
 		"name": "Alstonia angustifolia",
-		"common_name": "Pulai Penipu Paya, Red-leaved Pulai, Hard Alstonia"
+		"common_name": "Red-leaved Pulai"
 	},
 	"1411": {
 		"name": "Alstonia angustiloba",
@@ -681,7 +697,7 @@
 	},
 	"1414": {
 		"name": "Amesiodendron chinense",
-		"common_name": null
+		"common_name": "细子龙"
 	},
 	"1415": {
 		"name": "Amherstia nobilis",
@@ -697,15 +713,19 @@
 	},
 	"1418": {
 		"name": "Andira inermis",
-		"common_name": "Brown Heart"
+		"common_name": "Cabbage Tree"
+	},
+	"1419": {
+		"name": "Annona cherimola",
+		"common_name": "Cherimoya"
 	},
 	"1420": {
 		"name": "Annona squamosa",
-		"common_name": "Seri Kaya"
+		"common_name": "Custard Apple"
 	},
 	"1421": {
 		"name": "Antidesma bunius",
-		"common_name": "Currantwood"
+		"common_name": "Berunai"
 	},
 	"1422": {
 		"name": "Antidesma cuspidatum var. cuspidatum",
@@ -721,7 +741,7 @@
 	},
 	"1425": {
 		"name": "Aquilaria malaccensis",
-		"common_name": "Karas"
+		"common_name": "Malayan Eaglewood Tree, Karas, Kayu Gaharu, Kekaras, Tengkaras"
 	},
 	"1426": {
 		"name": "Aralidium pinnatifidum",
@@ -739,13 +759,17 @@
 		"name": "Araucaria heterophylla",
 		"common_name": "Norfolk Island Pine"
 	},
+	"1430": {
+		"name": "Archidendron clypearia",
+		"common_name": "Petai Belalang"
+	},
 	"1431": {
 		"name": "Archidendron jiringa",
 		"common_name": "Jering"
 	},
 	"1434": {
 		"name": "Ardisia elliptica",
-		"common_name": "Shoebutton Ardisia"
+		"common_name": "Mata Pelandok"
 	},
 	"1435": {
 		"name": "Ardisia lanceolata",
@@ -756,28 +780,28 @@
 		"common_name": "Hop Tree"
 	},
 	"1437": {
-		"name": "Arthrophyllum diversifolium",
+		"name": "Polyscias diversifolia",
 		"common_name": "Tumbuh Kelapa"
 	},
 	"1438": {
 		"name": "Artocarpus altilis",
-		"common_name": "Sukun"
+		"common_name": "Kulur, Kelor, Suku, Sukun, Breadfruit"
 	},
 	"1439": {
 		"name": "Artocarpus elasticus",
-		"common_name": "Getah Terup, Terap"
+		"common_name": "Getah Terup"
 	},
 	"1440": {
 		"name": "Artocarpus heterophyllus",
-		"common_name": "Jake Tree"
+		"common_name": "Nangka"
 	},
 	"1442": {
 		"name": "Averrhoa bilimbi",
-		"common_name": "Belimbing Besi"
+		"common_name": "Belimbing Buloh"
 	},
 	"1443": {
 		"name": "Averrhoa carambola",
-		"common_name": "Belimbing Manis"
+		"common_name": "Belimbing Besi"
 	},
 	"1444": {
 		"name": "Azadirachta excelsa",
@@ -789,7 +813,7 @@
 	},
 	"1446": {
 		"name": "Baccaurea motleyana",
-		"common_name": "Tampoi"
+		"common_name": "Common Rambai"
 	},
 	"1447": {
 		"name": "Baccaurea parviflora",
@@ -809,11 +833,11 @@
 	},
 	"1451": {
 		"name": "Barringtonia asiatica",
-		"common_name": "Fish-killer Tree"
+		"common_name": "Fish Poison Tree"
 	},
 	"1452": {
 		"name": "Barringtonia calyptrata",
-		"common_name": "Cassowary Pine"
+		"common_name": "Mango Pine"
 	},
 	"1453": {
 		"name": "Barringtonia edulis",
@@ -824,12 +848,12 @@
 		"common_name": "Fish-Killer Tree"
 	},
 	"1455": {
-		"name": "Bauhinia x blakeana",
-		"common_name": "Hong Kong Bauhinia"
+		"name": "Bauhinia Ã— blakeana",
+		"common_name": "Hong Kong Orchid Tree"
 	},
 	"1456": {
 		"name": "Bauhinia monandra",
-		"common_name": "Napoleon's Plume"
+		"common_name": "Butterfly Flower"
 	},
 	"1457": {
 		"name": "Bauhinia purpurea",
@@ -849,19 +873,23 @@
 	},
 	"1461": {
 		"name": "Brachychiton acerifolius",
-		"common_name": "Flame Tree"
+		"common_name": "Illawarra Flame Tree"
+	},
+	"1462": {
+		"name": "Brachychiton rupestris",
+		"common_name": "Queensland Bottle Tree"
 	},
 	"1463": {
 		"name": "Bridelia tomentosa",
 		"common_name": "Kernong"
 	},
 	"1464": {
-		"name": "Brownea coccinea ssp. capitella",
+		"name": "Brownea coccinea subsp. capitella",
 		"common_name": "Lantern Brownea"
 	},
 	"1465": {
 		"name": "Brownea grandiceps",
-		"common_name": "Rose of the Jungle"
+		"common_name": "Rose of the Mountain"
 	},
 	"1466": {
 		"name": "Brownea rosa-de-monte",
@@ -873,23 +901,23 @@
 	},
 	"1468": {
 		"name": "Terminalia buceras",
-		"common_name": "Black Olive"
+		"common_name": "Olive-bark Tree"
 	},
 	"1469": {
 		"name": "Terminalia mantaly",
-		"common_name": "Madagascar Almond"
+		"common_name": "Umbrella Tree"
 	},
 	"1470": {
 		"name": "Terminalia mantaly 'Tricolor'",
-		"common_name": "Variegated Madagascar Almond"
+		"common_name": "银叶诃子"
 	},
 	"1471": {
 		"name": "Bunchosia armeniaca",
-		"common_name": "Bunchoise des Andes"
+		"common_name": "Marmela"
 	},
 	"1472": {
 		"name": "Butea monosperma",
-		"common_name": "Flame of the Forest"
+		"common_name": "Flame of the Forest, Butea Gum Tree, Palasa, Bastard Teak"
 	},
 	"1473": {
 		"name": "Caesalpinia coriaria",
@@ -897,7 +925,7 @@
 	},
 	"1474": {
 		"name": "Libidibia ferrea",
-		"common_name": "Leopard Tree"
+		"common_name": "Brazilian Ironwood"
 	},
 	"1475": {
 		"name": "Caesalpinia sappan",
@@ -905,7 +933,7 @@
 	},
 	"1476": {
 		"name": "Callerya atropurpurea",
-		"common_name": "Jenaris"
+		"common_name": "Jenerek"
 	},
 	"1478": {
 		"name": "Calliandra tergemina var. emarginata",
@@ -913,7 +941,7 @@
 	},
 	"1479": {
 		"name": "Callistemon citrinus",
-		"common_name": "Lemon Bottlebrush"
+		"common_name": "Crimson Bottlebrush"
 	},
 	"1480": {
 		"name": "Melaleuca viminalis",
@@ -929,7 +957,7 @@
 	},
 	"1483": {
 		"name": "Calophyllum soulattri",
-		"common_name": "Mintak"
+		"common_name": "Malang-Malang"
 	},
 	"1484": {
 		"name": "Calycophyllum spruceanum",
@@ -957,22 +985,22 @@
 	},
 	"1491": {
 		"name": "Carapa guianensis",
-		"common_name": "Andiroba"
+		"common_name": "Demerara Mahogany, Andiroba, Crabwood"
 	},
 	"1492": {
 		"name": "Carica papaya",
-		"common_name": "Betek"
+		"common_name": "Betik"
 	},
 	"1494": {
-		"name": "Cassia fistula",
+		"name": "Cassia fistula L.",
 		"common_name": "Golden Shower"
 	},
 	"1495": {
 		"name": "Cassia grandis",
-		"common_name": "Apple-blossom Cassia"
+		"common_name": "Kotek"
 	},
 	"1496": {
-		"name": "Cassia javanica ssp. nodosa",
+		"name": "Cassia javanica subsp. nodosa",
 		"common_name": "Sebusok"
 	},
 	"1497": {
@@ -1005,15 +1033,15 @@
 	},
 	"1504": {
 		"name": "Ceiba pentandra",
-		"common_name": "Silk Cotton Tree"
+		"common_name": "Kabu-Kabu"
 	},
 	"1505": {
-		"name": "Ceiba pentandra (Variegated Leaf)",
+		"name": "Ceiba pentandra (Variegated)",
 		"common_name": null
 	},
 	"1506": {
 		"name": "Cerbera manghas",
-		"common_name": "Pink-eyed Cerbera"
+		"common_name": "Pong pong Tree"
 	},
 	"1507": {
 		"name": "Cerbera odollam",
@@ -1037,7 +1065,7 @@
 	},
 	"1513": {
 		"name": "Cinnamomum iners",
-		"common_name": "Clove Cinnamon"
+		"common_name": "Medang Teja"
 	},
 	"1514": {
 		"name": "Cinnamomum verum",
@@ -1052,7 +1080,7 @@
 		"common_name": "Limau Bali"
 	},
 	"1517": {
-		"name": "Citrus x aurantiifolia",
+		"name": "Citrus × aurantiifolia",
 		"common_name": "Limau"
 	},
 	"1518": {
@@ -1061,15 +1089,19 @@
 	},
 	"1519": {
 		"name": "Cleistanthus sumatranus",
-		"common_name": null
+		"common_name": "闭花木"
+	},
+	"1520": {
+		"name": "Clerodendrum disparifolium",
+		"common_name": "Celeguri"
 	},
 	"1521": {
 		"name": "Clitoria fairchildiana",
-		"common_name": "Butterfly Pea Tree"
+		"common_name": "Butterfly Pea Tree, Orchid Tree, Philippine Pigeonwings"
 	},
 	"1522": {
 		"name": "Clusia rosea",
-		"common_name": "Balsam Apple"
+		"common_name": "Scotch-Attorney, Star of Night, Balsam Apple, Copey, Pitch Apple, Fat Park Tree, Balsam Fig, Cupey, Autograph Tree"
 	},
 	"1523": {
 		"name": "Clusia rosea 'Variegata'",
@@ -1077,7 +1109,7 @@
 	},
 	"1524": {
 		"name": "Coccoloba uvifera",
-		"common_name": "Platter Leaf"
+		"common_name": "Jamaican Kino"
 	},
 	"1525": {
 		"name": "Cochlospermum religiosum",
@@ -1085,7 +1117,7 @@
 	},
 	"1527": {
 		"name": "Coffea liberica",
-		"common_name": "Liberica Coffee"
+		"common_name": "Liberian Coffee, Liberica Coffee"
 	},
 	"1528": {
 		"name": "Cola gigantea",
@@ -1101,7 +1133,7 @@
 	},
 	"1531": {
 		"name": "Cordia sebestena",
-		"common_name": "Scarlet Cordia"
+		"common_name": "Sebestens"
 	},
 	"1532": {
 		"name": "Cordia sebestena 'Aurea'",
@@ -1121,7 +1153,7 @@
 	},
 	"1536": {
 		"name": "Cratoxylum cochinchinense",
-		"common_name": "Yellow Cow Wood"
+		"common_name": "Derum Selunchor"
 	},
 	"1537": {
 		"name": "Cratoxylum formosum",
@@ -1133,11 +1165,11 @@
 	},
 	"1540": {
 		"name": "Cynometra cauliflora",
-		"common_name": "Katak Puru"
+		"common_name": "Puki Anjing"
 	},
 	"1541": {
 		"name": "Cynometra ramiflora",
-		"common_name": "Belangkan"
+		"common_name": "Katong Laut, Belangkan, Kangkatung Bukit, Kangkatong Laut"
 	},
 	"1542": {
 		"name": "Dalbergia cochinchinensis",
@@ -1156,7 +1188,7 @@
 		"common_name": "Fleur-de-paradis"
 	},
 	"1546": {
-		"name": "Dillenia (Red Young Leaf)",
+		"name": "Dillenia (Red Young Leaves)",
 		"common_name": null
 	},
 	"1547": {
@@ -1181,7 +1213,7 @@
 	},
 	"1552": {
 		"name": "Dillenia philippinensis",
-		"common_name": "Philippines Simpoh"
+		"common_name": "Katmon"
 	},
 	"1553": {
 		"name": "Dillenia reticulata",
@@ -1189,7 +1221,7 @@
 	},
 	"1554": {
 		"name": "Dillenia suffruticosa",
-		"common_name": "White Simpoh"
+		"common_name": "Simpoh Air"
 	},
 	"1555": {
 		"name": "Dimocarpus longan",
@@ -1225,7 +1257,7 @@
 	},
 	"1563": {
 		"name": "Dipterocarpus baudii",
-		"common_name": "Bulu"
+		"common_name": "Keruing, Bulu, Apitong"
 	},
 	"1564": {
 		"name": "Dipterocarpus grandiflorus",
@@ -1242,10 +1274,6 @@
 	"1567": {
 		"name": "Dovyalis hebecarpa",
 		"common_name": "Kitambilla"
-	},
-	"1568": {
-		"name": "Dracaena maingayi",
-		"common_name": "Maingay's Dracaena"
 	},
 	"1569": {
 		"name": "Dryobalanops aromatica",
@@ -1299,13 +1327,9 @@
 		"name": "Elateriospermum tapos",
 		"common_name": "Buah Perah"
 	},
-	"1583": {
-		"name": "Ensete superbum",
-		"common_name": null
-	},
 	"1584": {
 		"name": "Enterolobium cyclocarpum",
-		"common_name": "Devil's Ear Tree"
+		"common_name": "Elephant's Ear Tree, Devil's Ear Tree, Earpod Tree, Monkeysoap"
 	},
 	"1585": {
 		"name": "Eriobotrya japonica",
@@ -1321,11 +1345,11 @@
 	},
 	"1589": {
 		"name": "Erythrophleum suaveolens",
-		"common_name": "Ordeal Tree"
+		"common_name": "Red Water Tree"
 	},
 	"1590": {
 		"name": "Erythroxylum cuneatum",
-		"common_name": "Baka"
+		"common_name": "Wild Cocaine, Baka, Beluntas Bukit, Cinatamula, Inai Inai, Mahang Wangi, Medang Lenggundi, Medang Wangi"
 	},
 	"1591": {
 		"name": "Eucalyptus alba",
@@ -1337,15 +1361,11 @@
 	},
 	"1593": {
 		"name": "Eucalyptus deglupta",
-		"common_name": "Mindanao Gum"
+		"common_name": "Deglupta, Rainbow Gum, Bagras, Mindanao Gum, Kamarere"
 	},
 	"1594": {
 		"name": "Corymbia ptychocarpa",
 		"common_name": "Swamp Bloodwood"
-	},
-	"1595": {
-		"name": "Euclinia longiflora",
-		"common_name": "African Tree Gardenia"
 	},
 	"1596": {
 		"name": "Eugenia brasiliensis",
@@ -1401,7 +1421,7 @@
 	},
 	"1609": {
 		"name": "Ficus benjamina",
-		"common_name": "Benjamin's Fig"
+		"common_name": "Java Willow"
 	},
 	"1610": {
 		"name": "Ficus benjamina 'Variegated White'",
@@ -1417,7 +1437,7 @@
 	},
 	"1613": {
 		"name": "Ficus elastica",
-		"common_name": "Indian Rubber"
+		"common_name": "Pokok Getah Rambong"
 	},
 	"1614": {
 		"name": "Ficus elastica 'Black Burgundy'",
@@ -1437,11 +1457,11 @@
 	},
 	"1618": {
 		"name": "Ficus lyrata",
-		"common_name": "Lyre-leaf Figtree"
+		"common_name": "Fiddle-leaf"
 	},
 	"1619": {
 		"name": "Ficus microcarpa",
-		"common_name": "Jejawi"
+		"common_name": "Curtain Fig"
 	},
 	"1620": {
 		"name": "Ficus microcarpa 'Golden'",
@@ -1449,7 +1469,7 @@
 	},
 	"1622": {
 		"name": "Ficus religiosa",
-		"common_name": "Bodhi Tree"
+		"common_name": "Sacred Fig Tree"
 	},
 	"1623": {
 		"name": "Ficus superba",
@@ -1461,7 +1481,7 @@
 	},
 	"1625": {
 		"name": "Filicium decipiens",
-		"common_name": "Kiora Payung"
+		"common_name": "Fern-leaf Tree"
 	},
 	"1626": {
 		"name": "Firmiana malayana",
@@ -1469,11 +1489,11 @@
 	},
 	"1627": {
 		"name": "Flacourtia inermis",
-		"common_name": "Rukam Masam"
+		"common_name": "Batoko Plum"
 	},
 	"1628": {
 		"name": "Flacourtia rukam",
-		"common_name": "Indian Prune"
+		"common_name": "Rukam Manis"
 	},
 	"1630": {
 		"name": "Garcinia atroviridis",
@@ -1525,11 +1545,7 @@
 	},
 	"1642": {
 		"name": "Gliricidia sepium",
-		"common_name": "Madre De Cacao"
-	},
-	"1643": {
-		"name": "Glochidion littorale",
-		"common_name": "Jambu Kera"
+		"common_name": "Mexican Lilac, Madre De Cacao, Nicaraguan Cacao-shade, Madre, Gliricidia, Mother of Cocoa, Quick Stick"
 	},
 	"1646": {
 		"name": "Gmelina arborea",
@@ -1541,7 +1557,7 @@
 	},
 	"1648": {
 		"name": "Gmelina elliptica",
-		"common_name": "Common Bulang"
+		"common_name": "Bulang, Common Bulang, Bulangan, Bulongan, Bulang Gajah, Bulang Hutan, Bulang Kecil, Pukang Mata Hari"
 	},
 	"1649": {
 		"name": "Gnetum gnemon",
@@ -1592,16 +1608,16 @@
 		"common_name": "Rubber Tree"
 	},
 	"1661": {
-		"name": "Talipariti tiliaceum",
-		"common_name": "Baru Baru"
+		"name": "Hibiscus tiliaceus",
+		"common_name": "Beach Hibiscus"
 	},
 	"1662": {
-		"name": "Talipariti tiliaceum 'Tricolor'",
+		"name": "Hibiscus tiliaceus 'Tricolor'",
 		"common_name": "Sea Hibiscus"
 	},
 	"1663": {
 		"name": "Hopea helferi",
-		"common_name": null
+		"common_name": "NULL"
 	},
 	"1664": {
 		"name": "Hopea mengarawan",
@@ -1621,7 +1637,7 @@
 	},
 	"1668": {
 		"name": "Hopea sangal",
-		"common_name": "Cengal Mata Kuching"
+		"common_name": "Chengal Pasir"
 	},
 	"1669": {
 		"name": "Hopea wightiana",
@@ -1633,11 +1649,11 @@
 	},
 	"1671": {
 		"name": "Horsfieldia irya",
-		"common_name": "Piasau Mamau"
+		"common_name": "Salinguat"
 	},
 	"1672": {
 		"name": "Horsfieldia sucosa",
-		"common_name": "Samak Pulut"
+		"common_name": "Penarahan Gajah, Samak Pulut"
 	},
 	"1673": {
 		"name": "Hura crepitans",
@@ -1661,7 +1677,7 @@
 	},
 	"1679": {
 		"name": "Intsia palembanica",
-		"common_name": "Borneo Teak"
+		"common_name": "Malacca Teak, Borneo Teak, Merbau"
 	},
 	"1680": {
 		"name": "Ixonanthes icosandra",
@@ -1681,11 +1697,11 @@
 	},
 	"1686": {
 		"name": "Khaya senegalensis",
-		"common_name": "African Mahogany"
+		"common_name": "Bisselon"
 	},
 	"1687": {
 		"name": "Kigelia africana",
-		"common_name": "African Sausage Tree"
+		"common_name": "Sausage Tree, African Sausage Tree, German Sausage Tree, Cucumber Tree"
 	},
 	"1688": {
 		"name": "Kleinhovia hospita",
@@ -1693,7 +1709,7 @@
 	},
 	"1689": {
 		"name": "Knema globularia",
-		"common_name": "Gerahan"
+		"common_name": "Small-Leaved Nutmeg, Gerahan, Merbatu Kechil, Penarahan Padi, Cendarah Padi"
 	},
 	"1690": {
 		"name": "Koompassia excelsa",
@@ -1705,7 +1721,7 @@
 	},
 	"1692": {
 		"name": "Kopsia arborea",
-		"common_name": "Penang Sloe, Shrub Vinca"
+		"common_name": "Penang Sloe"
 	},
 	"1693": {
 		"name": "Kopsia fruticosa",
@@ -1713,7 +1729,7 @@
 	},
 	"1694": {
 		"name": "Kopsia singapurensis",
-		"common_name": "White Kopsia"
+		"common_name": "Singapore Kopsia"
 	},
 	"1695": {
 		"name": "Lagerstroemia floribunda",
@@ -1729,7 +1745,7 @@
 	},
 	"1698": {
 		"name": "Lagerstroemia speciosa",
-		"common_name": "Rose of India"
+		"common_name": "Pride of India"
 	},
 	"1699": {
 		"name": "Lagerstroemia speciosa (Pink Flower)",
@@ -1737,7 +1753,7 @@
 	},
 	"1700": {
 		"name": "Lagerstroemia tomentosa",
-		"common_name": "White Crape Myrtle"
+		"common_name": "绒毛紫薇"
 	},
 	"1701": {
 		"name": "Lansium domesticum",
@@ -1745,7 +1761,7 @@
 	},
 	"1702": {
 		"name": "Lecythis ollaria",
-		"common_name": "Monkey Pot Tree"
+		"common_name": "Sapucaia-nut"
 	},
 	"1703": {
 		"name": "Lepisanthes alata",
@@ -1762,10 +1778,6 @@
 	"1706": {
 		"name": "Lithocarpus elegans",
 		"common_name": "Berangan Landak"
-	},
-	"1707": {
-		"name": "Litsea accedens",
-		"common_name": null
 	},
 	"1708": {
 		"name": "Litsea firma",
@@ -1790,6 +1802,10 @@
 	"1713": {
 		"name": "Madhuca longifolia",
 		"common_name": "Indian Butter Tree"
+	},
+	"1714": {
+		"name": "Magnolia coco",
+		"common_name": null
 	},
 	"1715": {
 		"name": "Majidea zanguebarica",
@@ -1817,15 +1833,15 @@
 	},
 	"1722": {
 		"name": "Maniltoa browneoides",
-		"common_name": "Handkerchief Tree"
+		"common_name": "Handkerchief Tree, Pokok sapu tangan"
 	},
 	"1723": {
-		"name": "Maniltoa lenticellata",
+		"name": "Cynometra lenticellata",
 		"common_name": "Cascading Maniltoa"
 	},
 	"1724": {
 		"name": "Maranthes corymbosa",
-		"common_name": "Sea Beam"
+		"common_name": "Merbatu, Sea Beam, Kayu Batu, Kayu Kambang, Kembang Batu, Merbatu Layang, Sau Hutan"
 	},
 	"1725": {
 		"name": "Melaleuca bracteata 'Revolution Gold'",
@@ -1852,19 +1868,15 @@
 		"common_name": "Na Tree"
 	},
 	"1731": {
-		"name": "Magnolia x alba",
+		"name": "Magnolia × alba",
 		"common_name": "Cempaka Putih"
 	},
 	"1732": {
 		"name": "Magnolia champaca",
 		"common_name": "Champak"
 	},
-	"1733": {
-		"name": "Microdesmis caseariifolia",
-		"common_name": null
-	},
 	"1734": {
-		"name": "Pongamia pinnata",
+		"name": "Millettia pinnata",
 		"common_name": "Pongam"
 	},
 	"1735": {
@@ -1941,15 +1953,15 @@
 	},
 	"1753": {
 		"name": "Pachira insignis",
-		"common_name": "Provision Tree"
+		"common_name": "Wild Chestnut, Provision Tree"
 	},
 	"1754": {
 		"name": "Palaquium leiocarpum",
 		"common_name": null
 	},
 	"1755": {
-		"name": "Palaquium obovatum",
-		"common_name": "White Gutta"
+		"name": "Palaquium obovatum (Griff.) Engl.",
+		"common_name": "Nyatoh Puteh, White Gutta, Nyatoh Putih, Nyatuh, Taban Puteh, Taban Balam Kuning"
 	},
 	"1756": {
 		"name": "Palaquium oxleyanum",
@@ -1957,11 +1969,11 @@
 	},
 	"1757": {
 		"name": "Pangium edule",
-		"common_name": "Kepayang"
+		"common_name": "Keluak, Kepayang, Buah Keluak, Payang"
 	},
 	"1758": {
 		"name": "Falcataria moluccana",
-		"common_name": "Kayu machis"
+		"common_name": "Kayu Machis"
 	},
 	"1759": {
 		"name": "Parkia speciosa",
@@ -1969,7 +1981,7 @@
 	},
 	"1760": {
 		"name": "Parkia timoriana",
-		"common_name": "Kedawong"
+		"common_name": "Petai Keruyung, Kedawong, Kerayong"
 	},
 	"1762": {
 		"name": "Payena lucida",
@@ -1989,7 +2001,7 @@
 	},
 	"1767": {
 		"name": "Peronema canescens",
-		"common_name": "Jati Sabrang"
+		"common_name": "False Elder, Jati Sabrang, Sungkai, Sukai, Cherek"
 	},
 	"1768": {
 		"name": "Phaleria clerodendron",
@@ -1997,35 +2009,35 @@
 	},
 	"1769": {
 		"name": "Phyllanthus pectinatus",
-		"common_name": "Laka Laka"
+		"common_name": "Malacca Tree, Asam Melaka, Melaka, Laka, Emblic, Melaka, Emblic Myrabolan, Laka Laka, Indian Gooseberry, Myrabolan, Aonla"
 	},
 	"1770": {
 		"name": "Pinus caribaea",
-		"common_name": "Cuban Pine"
+		"common_name": "Cuban Pine, Caribbean Pine"
 	},
 	"1771": {
 		"name": "Pisonia grandis",
-		"common_name": "Kemudu"
+		"common_name": "Moonlight Tree"
 	},
 	"1772": {
 		"name": "Pithecellobium dulce",
-		"common_name": "Manila Tamarind"
+		"common_name": "Madras Thorn, Bread-and-cheese, Manila Tamarind, Huamuchil, Opiuma, Asam Keranji, Blackhead, Asam Kranji, Asam Tjina"
 	},
 	"1774": {
 		"name": "Pittosporum ferrugineum",
 		"common_name": "Splay-Berry Tree"
 	},
-	"1775": {
-		"name": "Pittosporum tobira",
-		"common_name": "Mock Orange"
-	},
 	"1776": {
 		"name": "Platycladus orientalis",
 		"common_name": "Oriental Thuja"
 	},
+	"1778": {
+		"name": "Ploiarium elegans",
+		"common_name": "Riang Riang"
+	},
 	"1779": {
 		"name": "Plumeria obtusa",
-		"common_name": "Frangipani"
+		"common_name": "Frangipani, Great White Frangipani, Temple tree, Frangipani, Cempaka, Chempaka, Kemboja, Bunga Kubur, Great Frangipani, Singapore Plumeria"
 	},
 	"1780": {
 		"name": "Plumeria pudica",
@@ -2033,7 +2045,7 @@
 	},
 	"1781": {
 		"name": "Plumeria rubra",
-		"common_name": "Camboja"
+		"common_name": "Common Frangipani"
 	},
 	"1782": {
 		"name": "Podocarpus macrophyllus",
@@ -2041,18 +2053,18 @@
 	},
 	"1783": {
 		"name": "Podocarpus neriifolius",
-		"common_name": "Brown Pine"
+		"common_name": "Brown Pine, Podo Bukit, Kayu China, Setada, Mountain Teak, Jati Bukit, Lowland Podocarp, Oleander Podocarp, Sentada"
 	},
 	"1784": {
 		"name": "Podocarpus polystachyus",
-		"common_name": "Jati Laut"
+		"common_name": "Podo Laut"
 	},
 	"1785": {
 		"name": "Podocarpus rumphii",
-		"common_name": "Kayu China"
+		"common_name": "Malakauayan"
 	},
 	"1786": {
-		"name": "Monoon longifolium",
+		"name": "Polyalthia longifolia",
 		"common_name": "Mast Tree"
 	},
 	"1787": {
@@ -2077,15 +2089,19 @@
 	},
 	"1792": {
 		"name": "Pouteria caimito",
-		"common_name": "Caimito"
+		"common_name": "Star Apple"
 	},
 	"1793": {
 		"name": "Pouteria campechiana",
-		"common_name": "Amarillo"
+		"common_name": "Canistel"
+	},
+	"1794": {
+		"name": "Pouteria gardneriana",
+		"common_name": "Aguai Guacu"
 	},
 	"1795": {
 		"name": "Planchonella obovata",
-		"common_name": "Misi"
+		"common_name": "Sea Gutta, Menasi, Northern Yellow Boxwood, Yellow Teak, Black Ash, Pulau Dammar, Misi, Nyatoh Laut"
 	},
 	"1796": {
 		"name": "Prunus polystachya",
@@ -2099,13 +2115,9 @@
 		"name": "Pternandra coerulescens",
 		"common_name": "Sial Menahun"
 	},
-	"1799": {
-		"name": "Pternandra echinata",
-		"common_name": "Sial Menahun"
-	},
 	"1800": {
 		"name": "Pterocarpus indicus",
-		"common_name": "Sena"
+		"common_name": "Angsana, Sena, Burmese Rosewood, Philippine Mahogany, Andaman Redwood, Red Sandalwood, Padouk, Padauk, Narra, Pokok Sena"
 	},
 	"1801": {
 		"name": "Pterocarpus indicus (Variegated)",
@@ -2123,33 +2135,37 @@
 		"name": "Pterygota alata",
 		"common_name": "Buddha's Coconut"
 	},
+	"1805": {
+		"name": "Porterandia anisophylla",
+		"common_name": "Randa Utan"
+	},
 	"1806": {
 		"name": "Atractocarpus fitzalanii",
-		"common_name": "Brown Gardenia"
+		"common_name": "Yellow Mangosteen"
 	},
 	"1807": {
 		"name": "Ravenala madagascariensis",
-		"common_name": "Pokok Travelers"
+		"common_name": "Pisang Kipas, Pokok Travelers, Traveller's Tree, Traveller's Palm"
 	},
 	"1809": {
 		"name": "Rhodamnia cinerea",
 		"common_name": "Mempoyan"
 	},
-	"1811": {
-		"name": "Annona mucosa",
-		"common_name": "Wild Sweetsop"
+	"1810": {
+		"name": "Rinorea anguifera",
+		"common_name": "Kayu rembut"
 	},
 	"1812": {
 		"name": "Salix babylonica",
-		"common_name": "Napolean's Willow"
+		"common_name": "Babylonian Willow"
 	},
 	"1813": {
 		"name": "Samanea saman",
-		"common_name": "Pukul Lima"
+		"common_name": "Monkey-pod"
 	},
 	"1814": {
 		"name": "Samanea saman (yellow leaves)",
-		"common_name": "Yellow Rain Tree"
+		"common_name": "Yellow Rain Tree, Golden Rain Tree"
 	},
 	"1815": {
 		"name": "Samanea saman (small leaves)",
@@ -2157,11 +2173,7 @@
 	},
 	"1816": {
 		"name": "Sandoricum koetjape",
-		"common_name": "Santol"
-	},
-	"1817": {
-		"name": "Sapium glandulosum",
-		"common_name": "Bolivian Rubber"
+		"common_name": "Lolly Fruit"
 	},
 	"1818": {
 		"name": "Saraca thaipingensis",
@@ -2181,7 +2193,7 @@
 	},
 	"1822": {
 		"name": "Schefflera actinophylla",
-		"common_name": "Octopus Tree"
+		"common_name": "Brassaia"
 	},
 	"1824": {
 		"name": "Schizolobium parahyba",
@@ -2209,7 +2221,7 @@
 	},
 	"1832": {
 		"name": "Shorea macroptera",
-		"common_name": "Meranti"
+		"common_name": "Meranti Melantai, Meranti"
 	},
 	"1833": {
 		"name": "Shorea palembanica",
@@ -2229,23 +2241,19 @@
 	},
 	"1837": {
 		"name": "Sindora wallichii",
-		"common_name": "Sepetir Daun Tebal"
+		"common_name": "Sepetir"
 	},
 	"1839": {
 		"name": "Spathodea campanulata",
-		"common_name": "Fire Bell"
-	},
-	"1840": {
-		"name": "Spathodea campanulata 'Aurea'",
-		"common_name": "Yellow African Tulip"
+		"common_name": "Panchot"
 	},
 	"1841": {
-		"name": "Spondias cytherea",
-		"common_name": "Yellow Plum"
+		"name": "Spondias dulcis",
+		"common_name": "Great Hog Plum"
 	},
 	"1842": {
 		"name": "Stenocarpus sinuatus",
-		"common_name": "Fire-wheel Tree"
+		"common_name": "火轮木"
 	},
 	"1843": {
 		"name": "Sterculia lanceolata",
@@ -2287,6 +2295,10 @@
 		"name": "Streblus elongatus",
 		"common_name": "Tampines Tree"
 	},
+	"1853": {
+		"name": "Streblus ilicifolius",
+		"common_name": "Merlimau"
+	},
 	"1855": {
 		"name": "Strombosia javanica",
 		"common_name": "Dali-dali"
@@ -2297,7 +2309,7 @@
 	},
 	"1857": {
 		"name": "Swietenia macrophylla",
-		"common_name": "American Mahogany"
+		"common_name": "Broad-leafed Mahogany"
 	},
 	"1858": {
 		"name": "Swietenia mahagoni",
@@ -2313,7 +2325,7 @@
 	},
 	"1861": {
 		"name": "Syzygium aromaticum",
-		"common_name": "Cengkih"
+		"common_name": "Chengkeh"
 	},
 	"1862": {
 		"name": "Syzygium borneense",
@@ -2337,11 +2349,11 @@
 	},
 	"1867": {
 		"name": "Syzygium grande",
-		"common_name": "Jambu Laut"
+		"common_name": "Jembah"
 	},
 	"1868": {
 		"name": "Syzygium jambos",
-		"common_name": "Jambu Kraton"
+		"common_name": "Malabar Plum"
 	},
 	"1869": {
 		"name": "Syzygium lineatum",
@@ -2349,11 +2361,11 @@
 	},
 	"1870": {
 		"name": "Syzygium malaccense",
-		"common_name": "Jambu Merah"
+		"common_name": "Pomerac"
 	},
 	"1871": {
 		"name": "Syzygium polyanthum",
-		"common_name": "Salam"
+		"common_name": "Indian Bayleaf"
 	},
 	"1872": {
 		"name": "Syzygium pycnanthum",
@@ -2361,7 +2373,7 @@
 	},
 	"1873": {
 		"name": "Syzygium zeylanicum",
-		"common_name": "Gelam Tikus"
+		"common_name": "Kelat Nasi Nasi"
 	},
 	"1874": {
 		"name": "Tabebuia aurea",
@@ -2369,7 +2381,7 @@
 	},
 	"1875": {
 		"name": "Handroanthus chrysotrichus",
-		"common_name": "Yellow Trumpet Tree"
+		"common_name": "Golden Trumpet Tree"
 	},
 	"1876": {
 		"name": "Tabebuia pallida",
@@ -2388,12 +2400,12 @@
 		"common_name": null
 	},
 	"1880": {
-		"name": "Talipariti tiliaceum var. purpurascens",
+		"name": "Hibiscus tiliaceus 'Purpurascens'",
 		"common_name": null
 	},
 	"1881": {
-		"name": "Tamarindus indica",
-		"common_name": "Asam"
+		"name": "Tamarindus indica L.",
+		"common_name": "Tamarind, Asam, Asam Jawa, Tamarindo, Indian Date"
 	},
 	"1882": {
 		"name": "Tarenna fragrans",
@@ -2421,11 +2433,15 @@
 	},
 	"1888": {
 		"name": "Terminalia catappa",
-		"common_name": "Ketapang"
+		"common_name": "Tropical Almond Tree"
 	},
 	"1889": {
 		"name": "Terminalia ivorensis",
 		"common_name": "Brimestonewood"
+	},
+	"1890": {
+		"name": "Terminalia kaernbachii",
+		"common_name": "Okari Nut"
 	},
 	"1891": {
 		"name": "Terminalia muelleri",
@@ -2445,7 +2461,7 @@
 	},
 	"1895": {
 		"name": "Theobroma cacao",
-		"common_name": "Cocoa"
+		"common_name": "Cocoa, Cacao, Chocolate Nut Tree"
 	},
 	"1896": {
 		"name": "Theobroma grandiflorum",
@@ -2465,7 +2481,7 @@
 	},
 	"1900": {
 		"name": "Triadica cochinchinensis",
-		"common_name": "Mouse Deer's Delight"
+		"common_name": "山乌桕"
 	},
 	"1902": {
 		"name": "Tristaniopsis laurina",
@@ -2473,7 +2489,7 @@
 	},
 	"1903": {
 		"name": "Tristaniopsis whiteana",
-		"common_name": "Pelawan"
+		"common_name": "River Tristania, Pelawan, Selunchor, Cancal, Cangal, Kayu Malu"
 	},
 	"1905": {
 		"name": "Vatica rassak",
@@ -2491,13 +2507,25 @@
 		"name": "Xanthostemon verticillatus",
 		"common_name": null
 	},
+	"1909": {
+		"name": "Xylopia ferruginea",
+		"common_name": "Antoi Jangkang"
+	},
 	"1911": {
 		"name": "Ziziphus mauritiana",
 		"common_name": "Cottony Jujube"
 	},
+	"1914": {
+		"name": "Gymnostoma sumatrana - duplicate, deleted",
+		"common_name": "Sumatran Ru"
+	},
 	"1916": {
 		"name": "Magnolia grandiflora",
 		"common_name": "Southern Magnolia"
+	},
+	"1920": {
+		"name": "Spondias mombin",
+		"common_name": "Hog Plum"
 	},
 	"1921": {
 		"name": "Manilkara kauki",
@@ -2516,7 +2544,7 @@
 		"common_name": "Kandis"
 	},
 	"1928": {
-		"name": "Mesua ferruginea",
+		"name": "Kayea ferruginea",
 		"common_name": "Buah Sembawang"
 	},
 	"1930": {
@@ -2525,14 +2553,14 @@
 	},
 	"1942": {
 		"name": "Ixonanthes reticulata",
-		"common_name": "Pagar Anak, Ten Men Tree, Inggir Burong, Nyiran Bu"
+		"common_name": "Ten Men Tree"
 	},
 	"1944": {
 		"name": "Tristaniopsis obovata",
 		"common_name": "Sea Tristania"
 	},
 	"1945": {
-		"name": "Macaranga gigantea ",
+		"name": "Macaranga gigantea",
 		"common_name": "Elephant's Ear Tree"
 	},
 	"1948": {
@@ -2552,7 +2580,7 @@
 		"common_name": "Variegated Indian Rubber"
 	},
 	"1955": {
-		"name": "Erythrina crista-galli ",
+		"name": "Erythrina crista-galli",
 		"common_name": "Cockspur Coral Tree"
 	},
 	"1956": {
@@ -2560,7 +2588,7 @@
 		"common_name": "Java Palm"
 	},
 	"1958": {
-		"name": "Peltophorum africanum ",
+		"name": "Peltophorum africanum",
 		"common_name": "Weeping Wattle"
 	},
 	"1959": {
@@ -2580,7 +2608,7 @@
 		"common_name": "Burma Padauk"
 	},
 	"1964": {
-		"name": "Khaya nyasica ",
+		"name": "Khaya anthotheca",
 		"common_name": "White Mahogany"
 	},
 	"1965": {
@@ -2589,11 +2617,15 @@
 	},
 	"1966": {
 		"name": "Annona muricata",
-		"common_name": "Durian Europa"
+		"common_name": "Guanabana"
 	},
 	"1967": {
 		"name": "Actinorhytis calapparia",
 		"common_name": "Calappa Palm"
+	},
+	"1968": {
+		"name": "Bruguiera gymnorhiza",
+		"common_name": "Tumu"
 	},
 	"1969": {
 		"name": "Neolitsea cassia",
@@ -2605,7 +2637,7 @@
 	},
 	"1971": {
 		"name": "Avicennia alba",
-		"common_name": "Api Api Putih"
+		"common_name": "Api Api"
 	},
 	"1973": {
 		"name": "Rhizophora apiculata",
@@ -2621,7 +2653,7 @@
 	},
 	"1977": {
 		"name": "Schoutenia accrescens ",
-		"common_name": "Bayur Bukit"
+		"common_name": null
 	},
 	"1978": {
 		"name": "Syzygium syzygioides",
@@ -2644,19 +2676,15 @@
 		"common_name": "Brazil-nut Tree"
 	},
 	"1987": {
-		"name": "Dialium platysepalum ",
+		"name": "Dialium platysepalum",
 		"common_name": "Keranji Tree"
-	},
-	"1989": {
-		"name": "Cyathea cooperi",
-		"common_name": "Coin Spot Tree Fern"
 	},
 	"1990": {
 		"name": "Bhesa robusta",
-		"common_name": "biku-biku"
+		"common_name": "Biku-biku"
 	},
 	"1991": {
-		"name": "Litsea costalis ",
+		"name": "Litsea costalis",
 		"common_name": "Medang Keladi"
 	},
 	"1993": {
@@ -2664,8 +2692,8 @@
 		"common_name": "Kabong"
 	},
 	"1994": {
-		"name": "Acoelorrhaphe wrightii (Griseb. & H. Wendl.) H. Wendl. ex Becc.",
-		"common_name": "Everglades Palm"
+		"name": "Acoelorrhaphe wrightii",
+		"common_name": "Silver Saw Palm"
 	},
 	"1995": {
 		"name": "Dracontomelon dao",
@@ -2681,10 +2709,10 @@
 	},
 	"1998": {
 		"name": "Litchi chinensis",
-		"common_name": "Litchee"
+		"common_name": "Lychee, Litchee, Litchi"
 	},
 	"1999": {
-		"name": "Spondias pinnata ",
+		"name": "Spondias pinnata",
 		"common_name": "Kedondong"
 	},
 	"2000": {
@@ -2700,7 +2728,7 @@
 		"common_name": "Pinang Punai"
 	},
 	"2004": {
-		"name": "Sindora coriacea ",
+		"name": "Sindora coriacea",
 		"common_name": "Sepetir"
 	},
 	"2005": {
@@ -2715,12 +2743,20 @@
 		"name": "Horsfieldia superba",
 		"common_name": "Cabbage-leafed Nutmeg"
 	},
+	"2008": {
+		"name": "Irvingia malayana",
+		"common_name": "Barking Deer's Mango"
+	},
 	"2010": {
 		"name": "Terminalia subspathulata",
 		"common_name": "Malayan Terminalia"
 	},
+	"2011": {
+		"name": "Macaranga tanarius",
+		"common_name": "Hairy Mahang"
+	},
 	"2013": {
-		"name": "Licania splendens ",
+		"name": "Licania splendens",
 		"common_name": "Merbatu Kechil"
 	},
 	"2014": {
@@ -2730,10 +2766,6 @@
 	"5192": {
 		"name": "Artocarpus integer",
 		"common_name": "Champedah"
-	},
-	"5435": {
-		"name": "Bactris gasipaes",
-		"common_name": "Pejibaye"
 	},
 	"9906": {
 		"name": "Elaeocarpus hainanensis",
@@ -2755,6 +2787,18 @@
 		"name": "Stelechocarpus burahol",
 		"common_name": "Kepel Apple"
 	},
+	"18040": {
+		"name": "Syagrus schizophylla",
+		"common_name": "Arikury Palm"
+	},
+	"19484": {
+		"name": "Citrus × microcarpa",
+		"common_name": "Calamansi"
+	},
+	"21741": {
+		"name": "Shorea caudatus",
+		"common_name": null
+	},
 	"21753": {
 		"name": "Conocarpus erectus var. sericeus",
 		"common_name": "Silver-leaf Buttonwood"
@@ -2769,11 +2813,11 @@
 	},
 	"29058": {
 		"name": "Tabernaemontana dichotoma",
-		"common_name": "Eve's Apple"
+		"common_name": "Forbidden Fruit"
 	},
 	"29059": {
 		"name": "Wrightia arborea",
-		"common_name": "Dhudhi"
+		"common_name": "胭木"
 	},
 	"29061": {
 		"name": "Jacaranda obtusifolia ssp. rhombifolia",
@@ -2816,7 +2860,7 @@
 		"common_name": null
 	},
 	"29078": {
-		"name": "Garcinia hombroniana",
+		"name": "Garcinia celebica",
 		"common_name": "Beruas"
 	},
 	"29083": {
@@ -2841,7 +2885,7 @@
 	},
 	"29089": {
 		"name": "Memecylon pauciflorum",
-		"common_name": "Cherry Shrub"
+		"common_name": "少花谷木"
 	},
 	"29090": {
 		"name": "Syzygium gratum",
@@ -2855,29 +2899,29 @@
 		"name": "Ochna integerrima",
 		"common_name": "Bird's Eye Bush"
 	},
-	"29096": {
-		"name": "Chamaedorea seifrizii",
-		"common_name": "Bamboo Palm"
+	"29094": {
+		"name": "Areca triandra",
+		"common_name": "Australian Areca Palm"
 	},
 	"29097": {
 		"name": "Copernicia baileyana",
-		"common_name": "Bailey Palm"
+		"common_name": "Yarey Hembra"
 	},
 	"29100": {
-		"name": "Copernicia prunifera",
+		"name": "Copernicia canescens",
 		"common_name": "Carnauba"
 	},
 	"29101": {
-		"name": "Phoenix dactylifera",
+		"name": "Phoenix canescens",
 		"common_name": "Date Palm"
 	},
 	"29104": {
 		"name": "Wallichia disticha",
-		"common_name": null
+		"common_name": "二列瓦理棕"
 	},
 	"29107": {
 		"name": "Gardenia sootepensis",
-		"common_name": "Golden Gardenia"
+		"common_name": "大黄栀子"
 	},
 	"29127": {
 		"name": "Ardisia crenata",
@@ -2888,7 +2932,7 @@
 		"common_name": "Damak-damak"
 	},
 	"29154": {
-		"name": "Abelia x grandiflora 'Francis Mason'",
+		"name": "Abelia × grandiflora 'Francis Mason'",
 		"common_name": "Francis Mason Glossy Abelia"
 	},
 	"29162": {
@@ -2897,18 +2941,14 @@
 	},
 	"29163": {
 		"name": "Ficus rumphii (cream-green leaves)",
-		"common_name": "Golden Rumph’s Fig"
+		"common_name": "Golden Mock Bodhi Tree"
 	},
 	"29167": {
 		"name": "Ficus rumphii 'Variegata'",
-		"common_name": "Variegated Rumph's Fig"
+		"common_name": "Variegated Mock Bodhi Tree"
 	},
-	"29179": {
-		"name": "Acer palmatum",
-		"common_name": null
-	},
-	"29181": {
-		"name": "Acmena resa ",
+	"29180": {
+		"name": "Acmena hemilampra",
 		"common_name": null
 	},
 	"29186": {
@@ -2931,9 +2971,9 @@
 		"name": "Aglaia korthalsii",
 		"common_name": "Sekeriah"
 	},
-	"29210": {
-		"name": "Albizia splendens",
-		"common_name": "Kungkur"
+	"29205": {
+		"name": "Aidia densiflora",
+		"common_name": null
 	},
 	"29220": {
 		"name": "Alstonia macrophylla",
@@ -2963,10 +3003,6 @@
 		"name": "Antidesma ghaesembilla",
 		"common_name": "Anjarubi"
 	},
-	"29237": {
-		"name": "Antidesma velutinosum",
-		"common_name": null
-	},
 	"29241": {
 		"name": "Araucaria cunninghamii",
 		"common_name": null
@@ -2977,14 +3013,10 @@
 	},
 	"29247": {
 		"name": "Archontophoenix cunninghamiana",
-		"common_name": "Illawarra Palm"
+		"common_name": "Palmier Bangalow"
 	},
-	"29248": {
-		"name": "Ardisia solanacea",
-		"common_name": null
-	},
-	"29253": {
-		"name": "Areca ipot",
+	"29256": {
+		"name": "Arenga microcarpa",
 		"common_name": null
 	},
 	"29260": {
@@ -3017,7 +3049,7 @@
 	},
 	"29267": {
 		"name": "Artocarpus rigidus",
-		"common_name": "Monkey jack"
+		"common_name": "Monkey Jack"
 	},
 	"29270": {
 		"name": "Arytera littoralis",
@@ -3043,6 +3075,10 @@
 		"name": "Baccaurea racemosa",
 		"common_name": null
 	},
+	"29286": {
+		"name": "Baccaurea ramiflora",
+		"common_name": "Burmese Grape"
+	},
 	"29287": {
 		"name": "Backhousia citriodora",
 		"common_name": null
@@ -3051,28 +3087,28 @@
 		"name": "Bambusa vulgaris",
 		"common_name": "Golden Bamboo"
 	},
-	"29294": {
-		"name": "Barringtonia conoidea",
-		"common_name": null
+	"29296": {
+		"name": "Bauhinia acuminata",
+		"common_name": "White Bauhinia"
 	},
 	"29309": {
 		"name": "Bischofia javanica",
 		"common_name": null
 	},
 	"29313": {
-		"name": "Bombax ceiba ",
+		"name": "Bombax ceiba",
 		"common_name": null
 	},
 	"29314": {
 		"name": "Bouea oppositifolia",
 		"common_name": "Marian Plum"
 	},
-	"29319": {
-		"name": "Bougainvillea glabra",
-		"common_name": null
-	},
 	"29326": {
 		"name": "Brachychiton discolor",
+		"common_name": "Lacebark Tree"
+	},
+	"29328": {
+		"name": "Brownea macrophylla",
 		"common_name": null
 	},
 	"29329": {
@@ -3117,7 +3153,7 @@
 	},
 	"29355": {
 		"name": "Ceratonia siliqua",
-		"common_name": "Carob tree"
+		"common_name": "长角豆"
 	},
 	"29360": {
 		"name": "Phyllanthus acidus",
@@ -3125,7 +3161,7 @@
 	},
 	"29361": {
 		"name": "Citrus hystrix",
-		"common_name": "Limau purut"
+		"common_name": "箭叶橙"
 	},
 	"29363": {
 		"name": "Citrus paradisi",
@@ -3155,6 +3191,10 @@
 		"name": "Dypsis cabadae",
 		"common_name": null
 	},
+	"29382": {
+		"name": "Dypsis lastelliana",
+		"common_name": null
+	},
 	"29384": {
 		"name": "Dypsis nodifera",
 		"common_name": null
@@ -3176,12 +3216,12 @@
 		"common_name": "Tulipwood"
 	},
 	"29396": {
-		"name": "Madhuca longifolia var. latifolia ",
+		"name": "Madhuca longifolia var. latifolia",
 		"common_name": null
 	},
 	"29399": {
 		"name": "Memecylon oleifolium",
-		"common_name": "Nipis Kulit Besar"
+		"common_name": "Delek Putih"
 	},
 	"29403": {
 		"name": "Oroxylum indicum",
@@ -3203,10 +3243,6 @@
 		"name": "Sterculia cordata",
 		"common_name": "Kembang"
 	},
-	"29420": {
-		"name": "Handroanthus chrysanthus",
-		"common_name": null
-	},
 	"29421": {
 		"name": "Tabebuia haemantha",
 		"common_name": null
@@ -3225,7 +3261,7 @@
 	},
 	"29445": {
 		"name": "Homalium circumpinnatum",
-		"common_name": "Brown Boxwood"
+		"common_name": "Shuttlecock Flower"
 	},
 	"29459": {
 		"name": "Callistemon pallidus",
@@ -3237,7 +3273,11 @@
 	},
 	"29466": {
 		"name": "Canarium littorale",
-		"common_name": null
+		"common_name": "Kedondong Bulan"
+	},
+	"29467": {
+		"name": "Canarium odontophyllum",
+		"common_name": "Kambayau"
 	},
 	"29469": {
 		"name": "Canarium ovatum",
@@ -3246,10 +3286,6 @@
 	"29470": {
 		"name": "Canarium patentinervium",
 		"common_name": "Kedondong Bulan"
-	},
-	"29471": {
-		"name": "Canarium pseudosumatranum",
-		"common_name": null
 	},
 	"29477": {
 		"name": "Cassia bakeriana",
@@ -3263,6 +3299,10 @@
 		"name": "Castanopsis lucida",
 		"common_name": "Berangan Papan"
 	},
+	"29488": {
+		"name": "Casuarina cunninghamiana",
+		"common_name": null
+	},
 	"29489": {
 		"name": "Gymnostoma papuanum",
 		"common_name": null
@@ -3272,15 +3312,19 @@
 		"common_name": null
 	},
 	"29506": {
-		"name": "Chrysanthemum x morifolium",
+		"name": "Chrysanthemum × morifolium",
 		"common_name": "Chrysanthemum"
 	},
 	"29508": {
 		"name": "Cinnamomum javanicum",
-		"common_name": null
+		"common_name": "爪哇肉桂"
 	},
 	"29509": {
 		"name": "Cinnamomum burmannii",
+		"common_name": "阴香"
+	},
+	"29510": {
+		"name": "Cinnamomum aromaticum",
 		"common_name": null
 	},
 	"29516": {
@@ -3291,10 +3335,6 @@
 		"name": "Cordia dichotoma",
 		"common_name": "Gunda"
 	},
-	"29541": {
-		"name": "Cordia superba",
-		"common_name": null
-	},
 	"29557": {
 		"name": "Cotylelobium lanceolatum",
 		"common_name": null
@@ -3303,28 +3343,24 @@
 		"name": "Cratoxylum arborescens",
 		"common_name": null
 	},
-	"29572": {
-		"name": "Cupaniopsis flagelliformis",
+	"29565": {
+		"name": "Cryosophila warscewiczii",
 		"common_name": null
 	},
 	"29579": {
 		"name": "Cyathocalyx pruniferus",
 		"common_name": null
 	},
+	"29587": {
+		"name": "Cyrtostachys renda (orange crownshaft)",
+		"common_name": null
+	},
 	"29588": {
 		"name": "Dacrycarpus imbricatus",
 		"common_name": "Jamuju"
 	},
-	"29589": {
-		"name": "Dacryodes costata",
-		"common_name": null
-	},
 	"29595": {
 		"name": "Dalbergia odorifera",
-		"common_name": null
-	},
-	"29596": {
-		"name": "Darlingia ferruginea",
 		"common_name": null
 	},
 	"29598": {
@@ -3333,23 +3369,23 @@
 	},
 	"29605": {
 		"name": "Deplanchea tetraphylla",
-		"common_name": null
+		"common_name": "Yellow Pagoda Tree"
 	},
 	"29607": {
 		"name": "Dendrolobium umbellatum",
 		"common_name": "Petai Belalang"
-	},
-	"29608": {
-		"name": "Dialium cochinchinense",
-		"common_name": null
 	},
 	"29609": {
 		"name": "Dialium indum",
 		"common_name": "Velvet Tamarind"
 	},
 	"29624": {
-		"name": "Dimocarpus longan ssp. malesianus",
+		"name": "Dimocarpus longan subsp. malesianus",
 		"common_name": "Musky Sarawak Longan"
+	},
+	"29626": {
+		"name": "Diospyros areolata",
+		"common_name": null
 	},
 	"29627": {
 		"name": "Diospyros argentea",
@@ -3357,10 +3393,6 @@
 	},
 	"29628": {
 		"name": "Diospyros lycioides",
-		"common_name": null
-	},
-	"29629": {
-		"name": "Diospyros durionoides",
 		"common_name": null
 	},
 	"29631": {
@@ -3383,8 +3415,20 @@
 		"name": "Diospyros singaporensis",
 		"common_name": null
 	},
+	"29639": {
+		"name": "Diospyros wallichii",
+		"common_name": null
+	},
+	"29641": {
+		"name": "Discospermum malaccense",
+		"common_name": "Uluh-Uluh"
+	},
 	"29643": {
 		"name": "Dipterocarpus kerrii",
+		"common_name": null
+	},
+	"29644": {
+		"name": "Dipterocarpus verrucosus",
 		"common_name": null
 	},
 	"29646": {
@@ -3392,7 +3436,7 @@
 		"common_name": null
 	},
 	"29647": {
-		"name": "Dipterocarpus caudatus ssp. penangianus",
+		"name": "Dipterocarpus caudatus subsp. penangianus",
 		"common_name": null
 	},
 	"29648": {
@@ -3429,6 +3473,10 @@
 	},
 	"29666": {
 		"name": "Dracaena draco",
+		"common_name": "Dragon Tree"
+	},
+	"29667": {
+		"name": "Dracontomelon duperreanum",
 		"common_name": null
 	},
 	"29668": {
@@ -3441,11 +3489,7 @@
 	},
 	"29673": {
 		"name": "Durio graveolens",
-		"common_name": "Merahan"
-	},
-	"29676": {
-		"name": "Dysoxylum pettigrewianum",
-		"common_name": null
+		"common_name": "Durian Hantu"
 	},
 	"29678": {
 		"name": "Endospermum diadenum",
@@ -3461,15 +3505,11 @@
 	},
 	"29684": {
 		"name": "Memecylon edule",
-		"common_name": "Kaayam"
+		"common_name": "Delek Air"
 	},
 	"29685": {
 		"name": "Memecylon ovatum",
 		"common_name": "Bayan"
-	},
-	"29686": {
-		"name": "Memecylon cantleyi",
-		"common_name": "Cantley's Memecylon"
 	},
 	"29692": {
 		"name": "Baccaurea brevipes",
@@ -3481,11 +3521,11 @@
 	},
 	"29694": {
 		"name": "Calophyllum teysmannii",
-		"common_name": "Bintangor Batu"
+		"common_name": "Yakang"
 	},
 	"29695": {
 		"name": "Canarium indicum",
-		"common_name": "Galip Nut"
+		"common_name": "Java Olive"
 	},
 	"29696": {
 		"name": "Carallia euryoides",
@@ -3493,7 +3533,7 @@
 	},
 	"29697": {
 		"name": "Cedrela odorata",
-		"common_name": "West Indian Cedar"
+		"common_name": "Mexican Cedar"
 	},
 	"29698": {
 		"name": "Cynometra iripa",
@@ -3501,15 +3541,19 @@
 	},
 	"29699": {
 		"name": "Dehaasia incrassata",
-		"common_name": null
+		"common_name": "腰果楠"
 	},
 	"29700": {
 		"name": "Dipterocarpus alatus",
-		"common_name": "Hairy-Leafed Apitong, Keruing, Yang, Gurjin"
+		"common_name": "Keruing"
 	},
 	"29701": {
 		"name": "Dryobalanops beccarii",
-		"common_name": "Kapur Paji"
+		"common_name": "Kapur Keladan"
+	},
+	"29702": {
+		"name": "Durio lowianus",
+		"common_name": "Durian Sepeh"
 	},
 	"29703": {
 		"name": "Durio singaporensis",
@@ -3517,35 +3561,31 @@
 	},
 	"29704": {
 		"name": "Elaeocarpus reticulatus",
-		"common_name": "Fairy Petticoats"
+		"common_name": "Ash Quandong"
 	},
 	"29706": {
 		"name": "Ficus benjamina 'Natasja'",
-		"common_name": "Miniature Weeping Fig"
+		"common_name": "Baby Ben Ficus"
 	},
 	"29707": {
-		"name": "Ficus benjamina  'Midnight'",
+		"name": "Ficus benjamina 'Midnight'",
 		"common_name": "Midnight Weeping Fig"
-	},
-	"29709": {
-		"name": "Garcinia livingstonei",
-		"common_name": "Imbé"
 	},
 	"29710": {
 		"name": "Kostermansia malayana",
 		"common_name": "Krepal"
 	},
 	"29712": {
-		"name": "Lophanthera lactescens cultivar (yellow-green leaves)",
+		"name": "Lophanthera lactescens (yellow-green leaves)",
 		"common_name": "Variegated Golden Chain Tree"
 	},
 	"29714": {
 		"name": "Mangifera odorata",
-		"common_name": "Kweni"
+		"common_name": "Fragrant Mango"
 	},
 	"29715": {
 		"name": "Magnolia mediocris",
-		"common_name": null
+		"common_name": "白花含笑"
 	},
 	"29717": {
 		"name": "Neesia altissima",
@@ -3553,23 +3593,15 @@
 	},
 	"29718": {
 		"name": "Ormosia henryi",
-		"common_name": null
-	},
-	"29719": {
-		"name": "Prunus arborea",
-		"common_name": "Moyang"
-	},
-	"29720": {
-		"name": "Rapanea melanophloeos",
-		"common_name": "Mudonera"
+		"common_name": "花榈木"
 	},
 	"29721": {
 		"name": "Shorea acuminatissima",
-		"common_name": "Yellow Meranti"
+		"common_name": "Yellow Seraya"
 	},
 	"29722": {
-		"name": "Syzygium acuminatissimum (Blume) DC.",
-		"common_name": "Arang"
+		"name": "Syzygium acuminatissimum",
+		"common_name": "Obah"
 	},
 	"29724": {
 		"name": "Syzygium incarnatum",
@@ -3577,11 +3609,11 @@
 	},
 	"29725": {
 		"name": "Syzygium claviflorum",
-		"common_name": "Muyu"
+		"common_name": "Trumpet Satinash"
 	},
 	"29726": {
 		"name": "Syzygium filiforme",
-		"common_name": "Thread Eugenia"
+		"common_name": "Kelat Merah"
 	},
 	"29727": {
 		"name": "Syzygium muelleri",
@@ -3595,32 +3627,32 @@
 		"name": "Teijsmanniodendron pteropodum",
 		"common_name": null
 	},
+	"29739": {
+		"name": "Ardisia cultivar (Variegated)",
+		"common_name": null
+	},
 	"29741": {
-		"name": "Millettia reticulata Benth.",
-		"common_name": "Evergreen Wisteria"
+		"name": "Millettia reticulata",
+		"common_name": "鸡血藤"
 	},
 	"29743": {
 		"name": "Ficus macrophylla",
-		"common_name": "Moreton Bay Fig"
+		"common_name": "澳洲大叶榕乳树"
 	},
 	"29746": {
-		"name": "Abelia x grandiflora",
-		"common_name": "Glossy abelia"
-	},
-	"29749": {
-		"name": "Ficus triangularis",
-		"common_name": "Triangle Fig"
+		"name": "Abelia × grandiflora",
+		"common_name": "大花六道木"
 	},
 	"29750": {
 		"name": "Ficus triangularis 'Variegata'",
 		"common_name": "Variegated Triangle Fig"
 	},
-	"29753": {
-		"name": "Kopsia (variegated leaves)",
+	"29751": {
+		"name": "Corymbia 'Summer Red'",
 		"common_name": null
 	},
-	"29756": {
-		"name": "Palaquium (red underside & new flushes)",
+	"29753": {
+		"name": "Kopsia (variegated leaves)",
 		"common_name": null
 	},
 	"29761": {
@@ -3635,16 +3667,12 @@
 		"name": "Juniperus (silver leaves)",
 		"common_name": null
 	},
-	"29770": {
-		"name": "Juniperus (variegated leaves)",
-		"common_name": null
-	},
 	"29771": {
 		"name": "Jacaranda cuspidifolia",
 		"common_name": null
 	},
 	"29795": {
-		"name": "Fagraea ceilanica",
+		"name": "Fagraea splendens",
 		"common_name": "Ara Burong"
 	},
 	"29800": {
@@ -3658,6 +3686,10 @@
 	"29803": {
 		"name": "Elaeocarpus eumundi",
 		"common_name": null
+	},
+	"29804": {
+		"name": "Elaeocarpus ferrugineus",
+		"common_name": "Rusty Oil Fruit"
 	},
 	"29805": {
 		"name": "Elaeocarpus floribundus",
@@ -3688,7 +3720,7 @@
 		"common_name": null
 	},
 	"29833": {
-		"name": "Eucalyptus polycarpa",
+		"name": "Corymbia polycarpa",
 		"common_name": null
 	},
 	"29834": {
@@ -3696,11 +3728,7 @@
 		"common_name": null
 	},
 	"29835": {
-		"name": "Eucalyptus torelliana",
-		"common_name": null
-	},
-	"29838": {
-		"name": "Eugenia chlorantha",
+		"name": "Corymbia torelliana",
 		"common_name": null
 	},
 	"29840": {
@@ -3727,8 +3755,12 @@
 		"name": "Syzygium ridleyi",
 		"common_name": null
 	},
+	"29852": {
+		"name": "Fagraea ceilanica",
+		"common_name": null
+	},
 	"29853": {
-		"name": "Fagraea gigantea",
+		"name": "Cyrtophyllum giganteum",
 		"common_name": "Meriang"
 	},
 	"29854": {
@@ -3757,11 +3789,15 @@
 	},
 	"29864": {
 		"name": "Ficus caulocarpa",
-		"common_name": "Stem-Fruited Fig"
+		"common_name": "Stem-fruited Fig"
 	},
 	"29867": {
 		"name": "Ficus crassiramea",
-		"common_name": "Collared fig"
+		"common_name": "Collared Fig"
+	},
+	"29868": {
+		"name": "Ficus benjamina 'Curly Ben'",
+		"common_name": null
 	},
 	"29870": {
 		"name": "Ficus elastica 'Robusta'",
@@ -3774,6 +3810,10 @@
 	"29873": {
 		"name": "Ficus globosa",
 		"common_name": "Ara paya"
+	},
+	"29874": {
+		"name": "Ficus heteropleura",
+		"common_name": "Sandy-Leafed Fig"
 	},
 	"29875": {
 		"name": "Ficus microcarpa var. hillii",
@@ -3791,6 +3831,10 @@
 		"name": "Ficus stricta",
 		"common_name": null
 	},
+	"29884": {
+		"name": "Ficus natalensis subsp. leprieurii",
+		"common_name": null
+	},
 	"29885": {
 		"name": "Ficus benjamina 'Golden Nitida'",
 		"common_name": null
@@ -3806,6 +3850,10 @@
 	"29888": {
 		"name": "Flacourtia jangomas",
 		"common_name": "Indian Plum"
+	},
+	"29890": {
+		"name": "Flindersia ifflaiana",
+		"common_name": null
 	},
 	"29896": {
 		"name": "Garcinia scortechinii",
@@ -3839,13 +3887,9 @@
 		"name": "Tabernaemontana africana",
 		"common_name": "Samoan Gardenia"
 	},
-	"29906": {
-		"name": "Gardenia ovularis",
-		"common_name": null
-	},
-	"29917": {
-		"name": "Gonystylus maingayi",
-		"common_name": null
+	"29907": {
+		"name": "Gardenia jasminoides",
+		"common_name": "栀子花"
 	},
 	"29918": {
 		"name": "Gonystylus confusus",
@@ -3873,7 +3917,7 @@
 	},
 	"29935": {
 		"name": "Gymnacranthera farquhariana var. farquhariana",
-		"common_name": null
+		"common_name": "NULL"
 	},
 	"29985": {
 		"name": "Heritiera javanica",
@@ -3881,7 +3925,7 @@
 	},
 	"29986": {
 		"name": "Heritiera simplicifolia",
-		"common_name": null
+		"common_name": "Balau"
 	},
 	"29995": {
 		"name": "Hopea auriculata",
@@ -3909,7 +3953,7 @@
 	},
 	"30002": {
 		"name": "Horsfieldia polyspherula",
-		"common_name": null
+		"common_name": "NULL"
 	},
 	"30003": {
 		"name": "Horsfieldia tomentosa",
@@ -3927,9 +3971,17 @@
 		"name": "Hyophorbe verschaffeltii",
 		"common_name": null
 	},
+	"30014": {
+		"name": "Hyphaene coriacea",
+		"common_name": "Ilala palm"
+	},
 	"30018": {
 		"name": "Inocarpus fagifer",
 		"common_name": "Taihiti Chestnut"
+	},
+	"30026": {
+		"name": "Jacaranda cuspidifolia",
+		"common_name": null
 	},
 	"30035": {
 		"name": "Johannesteijsmannia perakensis",
@@ -3949,6 +4001,10 @@
 	},
 	"30049": {
 		"name": "Knema laurina",
+		"common_name": "NULL"
+	},
+	"30050": {
+		"name": "Knema malayana",
 		"common_name": null
 	},
 	"30051": {
@@ -3957,6 +4013,10 @@
 	},
 	"30053": {
 		"name": "Kopsia flavida",
+		"common_name": null
+	},
+	"30057": {
+		"name": "Lagerstroemia duperreana",
 		"common_name": null
 	},
 	"30058": {
@@ -3983,14 +4043,6 @@
 		"name": "Licuala lauterbachii",
 		"common_name": null
 	},
-	"30075": {
-		"name": "Lithocarpus cantleyanus",
-		"common_name": null
-	},
-	"30076": {
-		"name": "Lithocarpus ewyckii",
-		"common_name": null
-	},
 	"30081": {
 		"name": "Litsea elliptica",
 		"common_name": null
@@ -3999,12 +4051,16 @@
 		"name": "Litsea garciae",
 		"common_name": "Bagnolo"
 	},
-	"30089": {
-		"name": "Livistona lorophylla",
-		"common_name": null
-	},
 	"30093": {
 		"name": "Livistona robinsoniana",
+		"common_name": null
+	},
+	"30098": {
+		"name": "Lonchocarpus capassa",
+		"common_name": null
+	},
+	"30100": {
+		"name": "Lophopetalum wightianum",
 		"common_name": null
 	},
 	"30106": {
@@ -4013,7 +4069,7 @@
 	},
 	"30107": {
 		"name": "Macaranga heynei",
-		"common_name": null
+		"common_name": "Blue mahang"
 	},
 	"30108": {
 		"name": "Macaranga hypoleuca",
@@ -4041,14 +4097,14 @@
 	},
 	"30127": {
 		"name": "Melicope lunu-ankenda",
-		"common_name": null
+		"common_name": "三刈叶蜜茱萸"
+	},
+	"30131": {
+		"name": "Mesua grandis",
+		"common_name": "Penaga sabut"
 	},
 	"30132": {
 		"name": "Metroxylon sagu",
-		"common_name": null
-	},
-	"30133": {
-		"name": "Mischocarpus grandissimus",
 		"common_name": null
 	},
 	"30137": {
@@ -4064,7 +4120,7 @@
 		"common_name": null
 	},
 	"30143": {
-		"name": "Musa x paradisiaca",
+		"name": "Musa × paradisiaca",
 		"common_name": null
 	},
 	"30151": {
@@ -4073,10 +4129,6 @@
 	},
 	"30153": {
 		"name": "Myristica iners",
-		"common_name": null
-	},
-	"30154": {
-		"name": "Myristica lowiana",
 		"common_name": null
 	},
 	"30155": {
@@ -4103,6 +4155,10 @@
 		"name": "Nephelium malaiense",
 		"common_name": null
 	},
+	"30176": {
+		"name": "Nephrosperma van-houtteana",
+		"common_name": null
+	},
 	"30178": {
 		"name": "Newbouldia laevis",
 		"common_name": null
@@ -4117,10 +4173,14 @@
 	},
 	"30191": {
 		"name": "Ormosia pinnata",
-		"common_name": null
+		"common_name": "海南红豆"
 	},
 	"30192": {
 		"name": "Ormosia bancana",
+		"common_name": null
+	},
+	"30195": {
+		"name": "Pajanelia longifolia",
 		"common_name": null
 	},
 	"30196": {
@@ -4129,10 +4189,6 @@
 	},
 	"30197": {
 		"name": "Palaquium clarkeanum",
-		"common_name": null
-	},
-	"30199": {
-		"name": "Palaquium microphyllum",
 		"common_name": null
 	},
 	"30200": {
@@ -4147,20 +4203,16 @@
 		"name": "Parastemon urophyllus",
 		"common_name": "Kelat Pasir"
 	},
-	"30214": {
-		"name": "Pelagodoxa henryana",
-		"common_name": "Henry Palm"
-	},
-	"30216": {
-		"name": "Pellacalyx axillaris",
+	"30208": {
+		"name": "Parkia sumatrana",
 		"common_name": null
+	},
+	"30214": {
+		"name": "Pelagodoxa sp.",
+		"common_name": "Henry Palm"
 	},
 	"30217": {
 		"name": "Peltophorum dubium",
-		"common_name": null
-	},
-	"30218": {
-		"name": "Peltophorum dasyrachis",
 		"common_name": null
 	},
 	"30220": {
@@ -4169,7 +4221,7 @@
 	},
 	"30223": {
 		"name": "Pentadesma butyracea",
-		"common_name": "Butter Tree"
+		"common_name": "Tallow Tree, Butter Tree"
 	},
 	"30225": {
 		"name": "Pentaspadon velutinus",
@@ -4185,14 +4237,6 @@
 	},
 	"30237": {
 		"name": "Phaeomeria magnifica",
-		"common_name": null
-	},
-	"30238": {
-		"name": "Phaleria capitata",
-		"common_name": null
-	},
-	"30246": {
-		"name": "Phoenix rupicola",
 		"common_name": null
 	},
 	"30255": {
@@ -4213,7 +4257,7 @@
 	},
 	"30270": {
 		"name": "Plumeria alba",
-		"common_name": "White Frangipani"
+		"common_name": "鸡蛋花"
 	},
 	"30271": {
 		"name": "Plumeria rubra (dark pink)",
@@ -4224,7 +4268,7 @@
 		"common_name": null
 	},
 	"30273": {
-		"name": "Plumeria 'Nebel's Rainbow'",
+		"name": "Plumeria 'Nebel 's Rainbow'",
 		"common_name": null
 	},
 	"30274": {
@@ -4234,10 +4278,6 @@
 	"30275": {
 		"name": "Plumeria sp.",
 		"common_name": null
-	},
-	"30276": {
-		"name": "Plumeria 'Scott Pratt'",
-		"common_name": "Temple tree"
 	},
 	"30277": {
 		"name": "Nageia nagi",
@@ -4255,8 +4295,16 @@
 		"name": "Podocarpus henkelii",
 		"common_name": null
 	},
+	"30282": {
+		"name": "Maasia glauca",
+		"common_name": null
+	},
 	"30283": {
 		"name": "Maasia sumatrana",
+		"common_name": null
+	},
+	"30287": {
+		"name": "Polyscias nodosa",
 		"common_name": null
 	},
 	"30288": {
@@ -4293,7 +4341,11 @@
 	},
 	"30312": {
 		"name": "Pterospermum javanicum",
-		"common_name": "Bayur"
+		"common_name": "Melerang, Bayur, Letop- letop"
+	},
+	"30313": {
+		"name": "Pterospermum lanceifolium",
+		"common_name": null
 	},
 	"30314": {
 		"name": "Ptychopyxis costata",
@@ -4311,6 +4363,10 @@
 		"name": "Rhopaloblaste augusta",
 		"common_name": null
 	},
+	"30339": {
+		"name": "Rollinia deliciosa",
+		"common_name": null
+	},
 	"30348": {
 		"name": "Sabal bermudana",
 		"common_name": null
@@ -4323,6 +4379,10 @@
 		"name": "Sabal minor",
 		"common_name": "Bluestem Palmetto"
 	},
+	"30353": {
+		"name": "Salix alba",
+		"common_name": null
+	},
 	"30360": {
 		"name": "Santiria apiculata",
 		"common_name": null
@@ -4331,8 +4391,16 @@
 		"name": "Santiria laevigata",
 		"common_name": null
 	},
+	"30362": {
+		"name": "Sapindus mukorossi",
+		"common_name": null
+	},
 	"30364": {
 		"name": "Sarcopteryx martyana",
+		"common_name": null
+	},
+	"30369": {
+		"name": "Attalea insignis",
 		"common_name": null
 	},
 	"30372": {
@@ -4350,10 +4418,6 @@
 	"30378": {
 		"name": "Scorodocarpus borneensis",
 		"common_name": "Garlic Nuts"
-	},
-	"30379": {
-		"name": "Scaphium linearicarpum",
-		"common_name": null
 	},
 	"30388": {
 		"name": "Serianthes grandiflora",
@@ -4419,8 +4483,16 @@
 		"name": "Shorea maxima",
 		"common_name": null
 	},
+	"30407": {
+		"name": "Shorea maxwelliana",
+		"common_name": null
+	},
 	"30408": {
 		"name": "Shorea mecistopteryx",
+		"common_name": null
+	},
+	"30409": {
+		"name": "Shorea multiflora",
 		"common_name": null
 	},
 	"30410": {
@@ -4429,7 +4501,7 @@
 	},
 	"30411": {
 		"name": "Shorea pauciflora",
-		"common_name": null
+		"common_name": "Nemesu"
 	},
 	"30412": {
 		"name": "Shorea parvifolia",
@@ -4459,12 +4531,12 @@
 		"name": "Shorea smithiana",
 		"common_name": null
 	},
-	"30422": {
-		"name": "Sindora siamensis",
+	"30421": {
+		"name": "Sideroxylon inerme",
 		"common_name": null
 	},
-	"30425": {
-		"name": "Hydriastele beguinii",
+	"30422": {
+		"name": "Sindora siamensis",
 		"common_name": null
 	},
 	"30430": {
@@ -4487,10 +4559,6 @@
 		"name": "Symplocos adenophylla",
 		"common_name": null
 	},
-	"30451": {
-		"name": "Synima macrophylla",
-		"common_name": null
-	},
 	"30452": {
 		"name": "Syzygium alliiligneum",
 		"common_name": null
@@ -4500,7 +4568,7 @@
 		"common_name": null
 	},
 	"30455": {
-		"name": "Syzygium forte ssp. forte",
+		"name": "Syzygium forte subsp. forte",
 		"common_name": null
 	},
 	"30456": {
@@ -4511,13 +4579,21 @@
 		"name": "Syzygium papillosum",
 		"common_name": null
 	},
+	"30464": {
+		"name": "Tabernaemontana divaricata (dwarf)",
+		"common_name": null
+	},
+	"30469": {
+		"name": "Tarenna mollis",
+		"common_name": null
+	},
 	"30473": {
 		"name": "Treculia africana",
 		"common_name": "Ukwa Seed"
 	},
 	"30474": {
-		"name": "Terminalia foetidissima Griff.",
-		"common_name": "Dalinsi"
+		"name": "Terminalia foetidissima",
+		"common_name": "Gutters Almond"
 	},
 	"30476": {
 		"name": "Terminalia alata",
@@ -4531,10 +4607,6 @@
 		"name": "Thrinax radiata",
 		"common_name": null
 	},
-	"30485": {
-		"name": "Toechima daemelianum",
-		"common_name": null
-	},
 	"30486": {
 		"name": "Toona sinensis",
 		"common_name": null
@@ -4542,6 +4614,10 @@
 	"30492": {
 		"name": "Trevesia palmata",
 		"common_name": "Snowflake Plant"
+	},
+	"30494": {
+		"name": "Trigonachras acuta",
+		"common_name": null
 	},
 	"30495": {
 		"name": "Triomma malaccensis",
@@ -4554,10 +4630,6 @@
 	"30497": {
 		"name": "Triplaris cumingiana",
 		"common_name": "Long John"
-	},
-	"30500": {
-		"name": "Lophostemon confertus",
-		"common_name": null
 	},
 	"30501": {
 		"name": "Tristaniopsis exiliflora",
@@ -4593,7 +4665,7 @@
 	},
 	"30516": {
 		"name": "Vernonia arborea",
-		"common_name": "Tree Vernonia"
+		"common_name": "树斑鸠菊"
 	},
 	"30520": {
 		"name": "Xanthophyllum ellipticum",
@@ -4603,13 +4675,17 @@
 		"name": "Xanthophyllum eurhynchum",
 		"common_name": null
 	},
-	"30522": {
-		"name": "Xanthophyllum stipitatum",
-		"common_name": null
-	},
 	"30523": {
 		"name": "Xanthophyllum vitellinum",
 		"common_name": "Dedali Paya"
+	},
+	"30525": {
+		"name": "Xanthostemon graniticus",
+		"common_name": null
+	},
+	"30526": {
+		"name": "Xylia xylocarpa",
+		"common_name": null
 	},
 	"30527": {
 		"name": "Xylocarpus granatum",
@@ -4623,12 +4699,8 @@
 		"name": "Terminalia catappa (variegated)",
 		"common_name": null
 	},
-	"30558": {
-		"name": "Syzygium luehmannii",
-		"common_name": "Riberry"
-	},
 	"30561": {
-		"name": "Xanthostemon chrysanthus (dwarf cultivar)",
+		"name": "Xanthostemon chrysanthus cultivar (dwarf)",
 		"common_name": null
 	},
 	"30575": {
@@ -4647,6 +4719,10 @@
 		"name": "Coccoloba rugosa",
 		"common_name": "Red-flowered Sea Grape"
 	},
+	"30591": {
+		"name": "Tabernaemontana (big round flowers)",
+		"common_name": null
+	},
 	"30598": {
 		"name": "Cerbera cultivar (red-leaves)",
 		"common_name": null
@@ -4659,6 +4735,10 @@
 		"name": "Suregada multiflora (variegated)",
 		"common_name": null
 	},
+	"30606": {
+		"name": "Gardenia cf. nitida",
+		"common_name": "Glossy-leaved Gardenia"
+	},
 	"30611": {
 		"name": "Xanthostemon chrysanthus (variegated leaves)",
 		"common_name": null
@@ -4668,15 +4748,15 @@
 		"common_name": null
 	},
 	"30650": {
-		"name": "Antidesma coriaceum Tul.",
+		"name": "Antidesma coriaceum",
+		"common_name": null
+	},
+	"30651": {
+		"name": "Baccaurea lanceolata",
 		"common_name": null
 	},
 	"30656": {
 		"name": "Calophyllum inophylloide var. singaporensis",
-		"common_name": null
-	},
-	"30657": {
-		"name": "Calyptrocalyx sp.",
 		"common_name": null
 	},
 	"30658": {
@@ -4699,6 +4779,10 @@
 		"name": "Cyrtophyllum fragrans (variegated)",
 		"common_name": null
 	},
+	"30669": {
+		"name": "Pellacalyx saccardianus",
+		"common_name": null
+	},
 	"30671": {
 		"name": "Syzygium leucoxylon",
 		"common_name": null
@@ -4708,19 +4792,51 @@
 		"common_name": "Rambai Tikus"
 	},
 	"30686": {
-		"name": "Baccaurea macrophylla (Müll.Arg.) Müll.Arg.",
+		"name": "Baccaurea macrophylla",
 		"common_name": null
 	},
-	"30722": {
-		"name": "Abelia x grandiflora 'Kaleidoscope'",
-		"common_name": "Kaleidoscope Abelia"
+	"30743": {
+		"name": "Xanthosoma sagittifolium 'Variegatum Monstrosum'",
+		"common_name": "Mouse Cup"
 	},
 	"30754": {
 		"name": "Phaleria macrocarpa",
 		"common_name": "God's Crown"
 	},
+	"30756": {
+		"name": "Cerbera cv. (curly red leaves)",
+		"common_name": null
+	},
+	"30773": {
+		"name": "Diospyros bejaudii",
+		"common_name": null
+	},
+	"30781": {
+		"name": "Diospyros curranii",
+		"common_name": null
+	},
+	"30783": {
+		"name": "Diospyros dictyoneura",
+		"common_name": null
+	},
+	"30785": {
+		"name": "Diospyros macrophylla",
+		"common_name": null
+	},
+	"30786": {
+		"name": "Diospyros decandra",
+		"common_name": null
+	},
+	"30790": {
+		"name": "Diospyros styraciformis",
+		"common_name": null
+	},
+	"30791": {
+		"name": "Fagraea crassifolia",
+		"common_name": null
+	},
 	"30801": {
-		"name": "Vitex trifolia ssp. litoralis",
+		"name": "Vitex trifolia subsp. litoralis",
 		"common_name": "Round-Leaf Vitex"
 	},
 	"30809": {
@@ -4740,8 +4856,8 @@
 		"common_name": "Jambu Hutan"
 	},
 	"30825": {
-		"name": "Salacca wallichiana Mart.",
-		"common_name": null
+		"name": "Salacca wallichiana",
+		"common_name": "Rakum"
 	},
 	"30839": {
 		"name": "Pometia pinnata f. alnifolia",
@@ -4751,9 +4867,13 @@
 		"name": "Mussaendopsis beccariana",
 		"common_name": "Melabira Bukit"
 	},
-	"30949": {
-		"name": "Gardenia cornuta",
-		"common_name": "Natal Gardenia"
+	"31012": {
+		"name": "Adonidia dransfieldii",
+		"common_name": null
+	},
+	"31018": {
+		"name": "Cassia siamensis",
+		"common_name": null
 	},
 	"31033": {
 		"name": "Hopea ferrea",
@@ -4775,10 +4895,6 @@
 		"name": "Anisoptera costata",
 		"common_name": "Pengiran Kesat"
 	},
-	"31057": {
-		"name": "Castanopsis schefferiana",
-		"common_name": null
-	},
 	"31058": {
 		"name": "Actinodaphne glomerata",
 		"common_name": null
@@ -4789,7 +4905,7 @@
 	},
 	"31083": {
 		"name": "Piscidia piscipula",
-		"common_name": "Fish-poison Tree"
+		"common_name": "Jamaica Dogwood, Fish-poison Tree"
 	},
 	"31103": {
 		"name": "Tabebuia impetiginosa",
@@ -4812,16 +4928,20 @@
 		"common_name": "Akar tangisan burung"
 	},
 	"31189": {
-		"name": "Vernonia amygdalina",
-		"common_name": "Bitter leaf"
+		"name": "Gymnanthemum amygdalinum",
+		"common_name": "South African Leaf"
 	},
 	"31198": {
 		"name": "Ficus binnendijkii",
 		"common_name": null
 	},
+	"31204": {
+		"name": "Pellacalyx axillaris",
+		"common_name": "Bebuloh"
+	},
 	"31224": {
 		"name": "Cocos nucifera",
-		"common_name": "Coconut Palm"
+		"common_name": "Kelapa"
 	},
 	"31226": {
 		"name": "Falcataria moluccana",
@@ -4840,7 +4960,7 @@
 		"common_name": "Perawas"
 	},
 	"31231": {
-		"name": "Mangifera x odorata",
+		"name": "Mangifera × odorata",
 		"common_name": "Fragrant Mango"
 	},
 	"31232": {
@@ -4851,13 +4971,9 @@
 		"name": "Vitex pinnata",
 		"common_name": "Malayan Teak"
 	},
-	"31234": {
-		"name": "Cinnamomum aromaticum",
-		"common_name": null
-	},
 	"31245": {
 		"name": "Ormocarpum cochinchinense",
-		"common_name": null
+		"common_name": "链荚木"
 	},
 	"31253": {
 		"name": "Shorea macrantha",
@@ -4875,16 +4991,12 @@
 		"name": "Sterculia megistophylla",
 		"common_name": "Buah Ayan Antu Sebayan"
 	},
-	"31303": {
-		"name": "Macaranga griffithiana",
-		"common_name": "Mahang Tutup"
+	"31299": {
+		"name": "Calophyllum biflorum",
+		"common_name": null
 	},
 	"31304": {
 		"name": "Litsea resinosa",
-		"common_name": null
-	},
-	"31313": {
-		"name": "Gardenia actinocarpa",
 		"common_name": null
 	},
 	"31316": {
@@ -4893,15 +5005,19 @@
 	},
 	"31326": {
 		"name": "Mischocarpus sundaicus",
-		"common_name": "Purple Aril Mischocarp"
+		"common_name": "柄果木"
 	},
 	"31333": {
 		"name": "ZZ-Native sp",
 		"common_name": "ZZ-Native sp"
 	},
-	"31418": {
-		"name": "Solanum torvum",
-		"common_name": "Devil's Fig"
+	"31361": {
+		"name": "Tabernaemontana polyneura",
+		"common_name": null
+	},
+	"31377": {
+		"name": "Myristica insipida",
+		"common_name": "Tomato"
 	},
 	"31561": {
 		"name": "Ficus aurata",
@@ -4919,16 +5035,8 @@
 		"name": "Vatica odorata",
 		"common_name": null
 	},
-	"31616": {
-		"name": "Salacia chinensis",
-		"common_name": "Anok"
-	},
 	"31658": {
 		"name": "Tabernaemontana (variegated cream leaves)",
-		"common_name": null
-	},
-	"31674": {
-		"name": "Ehretia resinosa",
 		"common_name": null
 	},
 	"31677": {
@@ -4939,13 +5047,13 @@
 		"name": "Hopea coriacea",
 		"common_name": "Damar Melapi"
 	},
-	"31688": {
-		"name": "Citrus japonica cv.",
-		"common_name": "Kumquat"
+	"31686": {
+		"name": "Pimenta dioica",
+		"common_name": "Jamaica Pepper"
 	},
-	"31703": {
-		"name": "Caesalpinia bonduc",
-		"common_name": "Gray Nicker"
+	"31693": {
+		"name": "Citrus aurantium 'Hutou Gan'",
+		"common_name": "虎头柑"
 	},
 	"31721": {
 		"name": "Radermachera sinica",
@@ -4959,6 +5067,14 @@
 		"name": "Mangifera quadrifida",
 		"common_name": "Asam Putarum"
 	},
+	"31727": {
+		"name": "Senna auriculata",
+		"common_name": "Avaram Senna"
+	},
+	"31769": {
+		"name": "Artocarpus lakoocha",
+		"common_name": "Monkey Jack"
+	},
 	"31771": {
 		"name": "Paranephelium macrophyllum",
 		"common_name": null
@@ -4969,19 +5085,23 @@
 	},
 	"31781": {
 		"name": "Carica papaya (Golden Form)",
-		"common_name": "Golden Papaya"
+		"common_name": "木瓜"
 	},
 	"31788": {
 		"name": "Artocarpus kemando",
 		"common_name": "Cempedak Air"
 	},
 	"31801": {
-		"name": "Dalbergia sissoo Roxb. ex DC.",
-		"common_name": "Bombay Blackwood"
+		"name": "Dalbergia sissoo",
+		"common_name": "印度黄檀"
 	},
 	"31804": {
-		"name": "Terminalia arjuna (Roxb. ex DC.) Wight & Arn.",
+		"name": "Terminalia arjuna",
 		"common_name": "Kumbuk"
+	},
+	"31807": {
+		"name": "Horsfieldia wallichii",
+		"common_name": null
 	},
 	"31810": {
 		"name": "Calophyllum tetrapterum",
@@ -4991,13 +5111,21 @@
 		"name": "Bridelia stipularis",
 		"common_name": "Kernam"
 	},
+	"31870": {
+		"name": "Elaeocarpus obtusus",
+		"common_name": null
+	},
 	"31879": {
 		"name": "Albizia niopoides var. niopoides",
-		"common_name": "Kungkur"
+		"common_name": null
 	},
 	"31881": {
 		"name": "Knema latericia ssp. ridleyi",
-		"common_name": null
+		"common_name": "NULL"
+	},
+	"31883": {
+		"name": "Gmelina asiatica",
+		"common_name": "亚洲石梓"
 	},
 	"31887": {
 		"name": "Myristica elliptica",
@@ -5031,9 +5159,9 @@
 		"name": "Swinglea glutinosa",
 		"common_name": "Tabog"
 	},
-	"31981": {
-		"name": "Glycosmis parviflora",
-		"common_name": null
+	"32024": {
+		"name": "Eranthemum pulchellum",
+		"common_name": "Blue Sage"
 	},
 	"32026": {
 		"name": "Polyscias scutellaria (Yellow and Green)",
@@ -5043,16 +5171,20 @@
 		"name": "Wild Species",
 		"common_name": "Unknown"
 	},
-	"32038": {
-		"name": "Pandanus houlletii",
-		"common_name": "Mengkuang Hutan"
+	"32064": {
+		"name": "Syngonium erythrophyllum",
+		"common_name": null
 	},
-	"32048": {
-		"name": "Avicennia marina",
-		"common_name": "Api-api Jambu"
+	"32088": {
+		"name": "Shorea dasyphylla",
+		"common_name": null
 	},
 	"32090": {
 		"name": "Calophyllum ferrugineum",
+		"common_name": null
+	},
+	"32091": {
+		"name": "Radermachera quadripinnata subsp. lobbii",
 		"common_name": null
 	},
 	"32177": {
@@ -5060,31 +5192,39 @@
 		"common_name": null
 	},
 	"32178": {
-		"name": "Artocarpus fulvicortex F.M. Jarrett",
+		"name": "Artocarpus fulvicortex",
 		"common_name": null
 	},
 	"32179": {
-		"name": "Artocarpus lowii King",
+		"name": "Artocarpus lowii",
 		"common_name": null
 	},
 	"32181": {
-		"name": "Beilschmiedia maingayi Hook. f.",
+		"name": "Beilschmiedia maingayi",
+		"common_name": null
+	},
+	"32187": {
+		"name": "Chisocheton patens",
+		"common_name": "Kedondong kerut"
+	},
+	"32191": {
+		"name": "Cryptocarya ferrea",
 		"common_name": null
 	},
 	"32194": {
-		"name": "Cryptocarya rugulosa Hook. f.",
+		"name": "Cryptocarya rugulosa",
 		"common_name": null
 	},
 	"32222": {
 		"name": "Xanthostemon (orange flowers)",
 		"common_name": null
 	},
-	"32258": {
-		"name": "Kunstleria ridleyi",
-		"common_name": null
+	"32246": {
+		"name": "Phyllanthus angustifolius",
+		"common_name": "Duppy Bush"
 	},
 	"32260": {
-		"name": "Musa acuminata x balbisiana (AAB Group) 'Pisang Raja'",
+		"name": "Musa acuminata × balbisiana (AAB Group) 'Pisang Raja'",
 		"common_name": "Raja Banana"
 	},
 	"32265": {
@@ -5095,8 +5235,12 @@
 		"name": "Diospyros pendula",
 		"common_name": null
 	},
+	"32309": {
+		"name": "Hopea pierrei",
+		"common_name": null
+	},
 	"32310": {
-		"name": "Shorea guiso (Blanco) Bl.",
+		"name": "Shorea guiso",
 		"common_name": null
 	},
 	"32311": {
@@ -5108,7 +5252,7 @@
 		"common_name": "Sal"
 	},
 	"32314": {
-		"name": "Xanthophyllum griffithii ssp. erectum",
+		"name": "Xanthophyllum griffithii subsp. erectum",
 		"common_name": "Rawai"
 	},
 	"32315": {
@@ -5123,16 +5267,16 @@
 		"name": "Dillenia sp.",
 		"common_name": null
 	},
-	"32330": {
-		"name": "Nageia wallichiana",
-		"common_name": "Brown’s Pine"
-	},
 	"32331": {
 		"name": "Gynostemma pentaphyllum",
-		"common_name": null
+		"common_name": "绞股蓝"
 	},
 	"32336": {
 		"name": "Dillenia sp. (Red Young Leaves)",
+		"common_name": null
+	},
+	"32339": {
+		"name": "Carica papaya (Red Stem)",
 		"common_name": null
 	},
 	"32341": {
@@ -5156,19 +5300,27 @@
 		"common_name": "Madagascar copal"
 	},
 	"32374": {
-		"name": "Adinandra angulata Ridl.",
+		"name": "Adinandra angulata",
+		"common_name": null
+	},
+	"32375": {
+		"name": "Dimocarpus dentatus",
 		"common_name": null
 	},
 	"32376": {
 		"name": "Mangifera pentandra",
-		"common_name": "Pauh Damar"
+		"common_name": null
+	},
+	"32377": {
+		"name": "Nephelium laurinum",
+		"common_name": null
 	},
 	"32379": {
 		"name": "Margaritaria indica",
-		"common_name": null
+		"common_name": "蓝子木"
 	},
 	"32381": {
-		"name": "Durio macrophyllus (King) Ridl.",
+		"name": "Durio macrophyllus",
 		"common_name": null
 	},
 	"32383": {
@@ -5180,19 +5332,43 @@
 		"common_name": "Kapur Paji"
 	},
 	"32387": {
-		"name": "Hopea bilitonensis P.S.Ashton",
+		"name": "Hopea bilitonensis",
+		"common_name": null
+	},
+	"32388": {
+		"name": "Shorea symingtonii",
+		"common_name": null
+	},
+	"32389": {
+		"name": "Vatica cinerea",
+		"common_name": null
+	},
+	"32391": {
+		"name": "Vatica lowii",
+		"common_name": null
+	},
+	"32393": {
+		"name": "Macaranga grandifolia",
+		"common_name": "Bingabing"
+	},
+	"32398": {
+		"name": "Tristiropsis canarioides",
 		"common_name": null
 	},
 	"32400": {
-		"name": "Syzygium buettnerianum (K.Schum.) Nied.",
+		"name": "Syzygium buettnerianum",
 		"common_name": null
 	},
 	"32401": {
 		"name": "Ganophyllum falcatum",
 		"common_name": "Scaly Bark Ash"
 	},
+	"32402": {
+		"name": "Ailanthus integrifolia",
+		"common_name": null
+	},
 	"32406": {
-		"name": "Baccaurea scortechinii Hook.f.",
+		"name": "Baccaurea scortechinii",
 		"common_name": null
 	},
 	"32422": {
@@ -5201,14 +5377,14 @@
 	},
 	"32423": {
 		"name": "Clausena lansium",
-		"common_name": "Huang Pi"
+		"common_name": "Wampee"
 	},
 	"32449": {
 		"name": "Genipa americana",
 		"common_name": "Jagua"
 	},
 	"32454": {
-		"name": "Shorea kunstleri King",
+		"name": "Shorea kunstleri",
 		"common_name": null
 	},
 	"32457": {
@@ -5219,20 +5395,24 @@
 		"name": "Terminalia copelandii",
 		"common_name": null
 	},
-	"32549": {
-		"name": "Hydriastele pinangoides",
-		"common_name": null
-	},
 	"32560": {
 		"name": "Stelechocarpus cauliflorus",
 		"common_name": null
 	},
 	"32561": {
 		"name": "Alstonia pneumatophora",
-		"common_name": "Pulai Basong"
+		"common_name": "Marsh Pulai, Pulai Basong"
+	},
+	"32587": {
+		"name": "Burkillanthus malaccensis",
+		"common_name": "Malay ghost-lime"
 	},
 	"32588": {
 		"name": "Cleistanthus maingayi",
+		"common_name": null
+	},
+	"32645": {
+		"name": "Neoscortechinia sumatrensis",
 		"common_name": null
 	},
 	"32646": {
@@ -5242,10 +5422,6 @@
 	"32649": {
 		"name": "Plumeria 'Dean Conklin'",
 		"common_name": "Temple tree"
-	},
-	"32650": {
-		"name": "Plumeria 'Donald Angus'",
-		"common_name": "Frangipani"
 	},
 	"32651": {
 		"name": "Plumeria 'Edi Moragne'",
@@ -5271,12 +5447,16 @@
 		"name": "Plumeria 'Bali Hai Gold'",
 		"common_name": "Temple tree"
 	},
-	"32714": {
-		"name": "Eugenia victoriana",
-		"common_name": "Sundrop"
+	"32692": {
+		"name": "Morus macroura",
+		"common_name": "Himalayan Mulbery"
 	},
 	"32720": {
 		"name": "Pterocarpus indicus (Wilt-Resistant)",
+		"common_name": null
+	},
+	"32721": {
+		"name": "Dysoxylum macrocarpum",
 		"common_name": null
 	},
 	"32723": {
@@ -5288,7 +5468,11 @@
 		"common_name": null
 	},
 	"32765": {
-		"name": "Cinnamomum porrectum",
+		"name": "Hydriastele costata",
+		"common_name": null
+	},
+	"32781": {
+		"name": "Diospyros penangiana",
 		"common_name": null
 	},
 	"32788": {
@@ -5302,6 +5486,10 @@
 	"32791": {
 		"name": "Diospyros borneensis",
 		"common_name": "Kayu Malam"
+	},
+	"32792": {
+		"name": "Durio kutejensis",
+		"common_name": "Durian Kuning"
 	},
 	"32793": {
 		"name": "Quassia indica",
@@ -5317,7 +5505,11 @@
 	},
 	"32802": {
 		"name": "Plumeria 'Bali Whirl'",
-		"common_name": "Frangipani"
+		"common_name": "鸡蛋花"
+	},
+	"32821": {
+		"name": "Aquilaria crassna",
+		"common_name": "Eagle Wood"
 	},
 	"32822": {
 		"name": "Dipterocarpus zeylanicus",
@@ -5326,6 +5518,10 @@
 	"32823": {
 		"name": "Dipterocarpus turbinatus",
 		"common_name": "Gujun"
+	},
+	"32825": {
+		"name": "Sterculia hamiltonii",
+		"common_name": null
 	},
 	"32830": {
 		"name": "Dipterocarpus intricatus",
@@ -5343,21 +5539,17 @@
 		"name": "Madhuca korthalsii",
 		"common_name": null
 	},
-	"32841": {
-		"name": "Plumeria obtusa 'Singapore White'",
-		"common_name": "Great White Frangipani"
+	"32840": {
+		"name": "Wild Species test1",
+		"common_name": "nihao"
 	},
 	"32842": {
 		"name": "Khaya nyasica",
-		"common_name": "African Mahogany"
+		"common_name": "East African Mahogany"
 	},
-	"32843": {
-		"name": "Amaranthus cruentus 'Copperhead'",
-		"common_name": "Hot Biscuits"
-	},
-	"32846": {
-		"name": "Bauhinia bowkeri",
-		"common_name": "Bowker's Bauhinia"
+	"32845": {
+		"name": "Fagraea splendens",
+		"common_name": null
 	},
 	"32848": {
 		"name": "Gardenia pterocalyx",
@@ -5367,21 +5559,25 @@
 		"name": "Cratoxylum sumatranum",
 		"common_name": "Manding"
 	},
+	"32858": {
+		"name": "Dasymaschalon dasymaschalum",
+		"common_name": "Akar Mempisang"
+	},
 	"32864": {
 		"name": "Durio sp.",
 		"common_name": "Great White Frangipani"
 	},
-	"32865": {
-		"name": "Naringi crenulata",
+	"32872": {
+		"name": "Syzygium foxworthianum",
 		"common_name": null
 	},
-	"32869": {
-		"name": "Rhapis subtilis",
-		"common_name": "Dark Lady Palm"
+	"32873": {
+		"name": "Tabernaemontana aurantiaca",
+		"common_name": "Orange Milkwood"
 	},
 	"32875": {
 		"name": "Vatica flavida",
-		"common_name": "African Mahogany"
+		"common_name": "Resak Padi"
 	},
 	"32877": {
 		"name": "Myrciaria vexator",
@@ -5401,14 +5597,14 @@
 	},
 	"32899": {
 		"name": "Anisoptera marginata",
-		"common_name": null
+		"common_name": "Mersawa Paya"
+	},
+	"32901": {
+		"name": "Plumeria 'J4'",
+		"common_name": "Champa"
 	},
 	"32906": {
 		"name": "Endocomia canarioides",
-		"common_name": null
-	},
-	"32910": {
-		"name": "Cyathocalyx sumatranus",
 		"common_name": null
 	},
 	"32911": {
@@ -5417,11 +5613,19 @@
 	},
 	"32912": {
 		"name": "Mangifera indica 'R2E2'",
-		"common_name": "Mango"
+		"common_name": "Mangas"
+	},
+	"32914": {
+		"name": "Dalbergia boniana",
+		"common_name": null
 	},
 	"32915": {
 		"name": "Livistona benthamii",
 		"common_name": "Bentham's Fan Palm"
+	},
+	"32936": {
+		"name": "Melaleuca linariifolia ''Claret Tops''",
+		"common_name": "Honey Myrtle"
 	},
 	"32943": {
 		"name": "Syzygium rugosum",
@@ -5429,26 +5633,34 @@
 	},
 	"32950": {
 		"name": "Canarium album",
-		"common_name": "Chinese Olive Tree"
+		"common_name": "橄榄"
 	},
 	"32952": {
 		"name": "Syzygium subdecussatum",
 		"common_name": null
 	},
+	"32972": {
+		"name": "Plumeria obtusa (Narrow Petals)",
+		"common_name": "White Frangipani"
+	},
 	"32998": {
 		"name": "Shorea lepidota",
 		"common_name": "Meranti Langgong"
-	},
-	"33010": {
-		"name": "Syzygium cormiflorum",
-		"common_name": null
 	},
 	"33014": {
 		"name": "Hydnocarpus alpina",
 		"common_name": null
 	},
+	"33016": {
+		"name": "Mangifera torquenda",
+		"common_name": null
+	},
 	"33020": {
 		"name": "Parishia paucijuga",
+		"common_name": null
+	},
+	"33021": {
+		"name": "Dendrokingstonia nervosa",
 		"common_name": null
 	},
 	"33023": {
@@ -5463,24 +5675,28 @@
 		"name": "Mezzettia parviflora",
 		"common_name": null
 	},
-	"33029": {
-		"name": "Rhus taitensis",
-		"common_name": null
-	},
-	"33034": {
-		"name": "Calyptrocalyx elegans",
-		"common_name": "Mara"
+	"33037": {
+		"name": "Mangifera lagenifera",
+		"common_name": "Lanjut"
 	},
 	"33040": {
 		"name": "Mitrephora tomentosa",
 		"common_name": null
+	},
+	"33041": {
+		"name": "Monoon hookerianum",
+		"common_name": "Sinai"
 	},
 	"33046": {
 		"name": "Holarrhena pubescens",
 		"common_name": null
 	},
 	"33048": {
-		"name": "Kopsia singapurensis x fruticosa",
+		"name": "Kopsia singapurensis × fruticosa",
+		"common_name": null
+	},
+	"33049": {
+		"name": "Plumeria 'Candy Stripe'",
 		"common_name": null
 	},
 	"33050": {
@@ -5491,65 +5707,17 @@
 		"name": "Plumeria 'Cranberry Red'",
 		"common_name": null
 	},
-	"33052": {
-		"name": "Plumeria 'Cyndi Moragne'",
-		"common_name": null
-	},
-	"33054": {
-		"name": "Plumeria 'Duke'",
-		"common_name": null
-	},
 	"33055": {
 		"name": "Plumeria 'Dwarf Deciduous'",
 		"common_name": null
 	},
-	"33056": {
-		"name": "Plumeria 'Hausten White'",
-		"common_name": null
-	},
-	"33057": {
-		"name": "Plumeria 'Hilo Beauty'",
-		"common_name": null
-	},
-	"33058": {
-		"name": "Plumeria 'J.L. Bridal White'",
-		"common_name": null
-	},
-	"33062": {
-		"name": "Plumeria 'Kauka Wilder'",
-		"common_name": null
-	},
-	"33064": {
-		"name": "Plumeria 'Kimo'",
-		"common_name": null
-	},
-	"33065": {
-		"name": "Plumeria 'Kona Hybrid #26'",
-		"common_name": null
-	},
-	"33068": {
-		"name": "Plumeria 'Mango Blush'",
-		"common_name": null
-	},
-	"33074": {
-		"name": "Plumeria 'Peppermint'",
-		"common_name": null
-	},
-	"33075": {
-		"name": "Plumeria 'Petite Pink'",
-		"common_name": null
-	},
-	"33077": {
-		"name": "Plumeria 'Plastic Pink'",
+	"33071": {
+		"name": "Plumeria 'Moir' (pink)",
 		"common_name": null
 	},
 	"33088": {
 		"name": "Melicope rubra",
 		"common_name": "Little Evodia"
-	},
-	"33094": {
-		"name": "Plumeria rubra 'Charm'",
-		"common_name": null
 	},
 	"33095": {
 		"name": "Plumeria rubra 'Dark Red'",
@@ -5563,32 +5731,12 @@
 		"name": "Plumeria rubra 'Lady in Pink'",
 		"common_name": null
 	},
-	"33098": {
-		"name": "Plumeria rubra 'Little Beauty'",
-		"common_name": null
-	},
-	"33099": {
-		"name": "Plumeria rubra 'Rosy Dawn'",
-		"common_name": null
-	},
-	"33100": {
-		"name": "Plumeria rubra 'Tellice Hagber'",
-		"common_name": null
-	},
 	"33101": {
 		"name": "Plumeria rubra 'White Pink'",
 		"common_name": null
 	},
-	"33102": {
-		"name": "Plumeria 'Samoan Fluff'",
-		"common_name": null
-	},
 	"33106": {
 		"name": "Plumeria 'Yellow Shell'",
-		"common_name": null
-	},
-	"33107": {
-		"name": "Polyscias diversifolia",
 		"common_name": null
 	},
 	"33108": {
@@ -5615,8 +5763,16 @@
 		"name": "Markhamia lutea",
 		"common_name": null
 	},
+	"33118": {
+		"name": "Hydnocarpus sp.",
+		"common_name": null
+	},
 	"33119": {
 		"name": "Mangifera sp.",
+		"common_name": null
+	},
+	"33122": {
+		"name": "Polyalthia sp.",
 		"common_name": null
 	},
 	"33124": {
@@ -5651,20 +5807,16 @@
 		"name": "Bucida sp.",
 		"common_name": null
 	},
-	"33133": {
-		"name": "Barringtonia badia",
-		"common_name": null
-	},
 	"33134": {
 		"name": "Barringtonia fusiformis",
 		"common_name": null
 	},
-	"33135": {
-		"name": "Barringtonia neocaledonica",
-		"common_name": null
-	},
 	"33137": {
 		"name": "Barringtonia norshamiae",
+		"common_name": null
+	},
+	"33138": {
+		"name": "Barringtonia sp",
 		"common_name": null
 	},
 	"33139": {
@@ -5695,20 +5847,12 @@
 		"name": "Magnolia liliifera var. liliifera",
 		"common_name": null
 	},
-	"33148": {
-		"name": "Magnolia utilis",
-		"common_name": null
-	},
 	"33150": {
 		"name": "Archontophoenix tuckeri",
 		"common_name": null
 	},
 	"33154": {
 		"name": "Durio dulcis",
-		"common_name": null
-	},
-	"33155": {
-		"name": "Areca rheophytica",
 		"common_name": null
 	},
 	"33156": {
@@ -5731,10 +5875,6 @@
 		"name": "Areca sp.",
 		"common_name": null
 	},
-	"33162": {
-		"name": "Luehea seemannii",
-		"common_name": null
-	},
 	"33164": {
 		"name": "Arenga obtusifolia",
 		"common_name": null
@@ -5743,20 +5883,8 @@
 		"name": "Arenga sp.",
 		"common_name": null
 	},
-	"33167": {
-		"name": "Luehea speciosa",
-		"common_name": null
-	},
 	"33169": {
 		"name": "Ochroma pyramidale",
-		"common_name": null
-	},
-	"33170": {
-		"name": "Astrocaryum alatum",
-		"common_name": null
-	},
-	"33172": {
-		"name": "Astrocaryum vulgare",
 		"common_name": null
 	},
 	"33174": {
@@ -5799,14 +5927,6 @@
 		"name": "Bellucia pentamera",
 		"common_name": null
 	},
-	"33188": {
-		"name": "Aglaia eximia",
-		"common_name": null
-	},
-	"33189": {
-		"name": "Aglaia ijzermannii",
-		"common_name": null
-	},
 	"33191": {
 		"name": "Aglaia meridionalis",
 		"common_name": null
@@ -5821,6 +5941,10 @@
 	},
 	"33196": {
 		"name": "Carapa procera",
+		"common_name": null
+	},
+	"33197": {
+		"name": "Beccariophoenix fenestralis",
 		"common_name": null
 	},
 	"33199": {
@@ -5839,8 +5963,12 @@
 		"name": "Artocarpus maingayi",
 		"common_name": null
 	},
+	"33207": {
+		"name": "Calyptrocalyx albertisianus",
+		"common_name": null
+	},
 	"33208": {
-		"name": "Artocarpus nitidus ssp. borneensis",
+		"name": "Artocarpus nitidus subsp. borneensis",
 		"common_name": null
 	},
 	"33209": {
@@ -5855,16 +5983,8 @@
 		"name": "Ficus abelii",
 		"common_name": null
 	},
-	"33213": {
-		"name": "Calyptrocalyx amoenus",
-		"common_name": null
-	},
 	"33214": {
 		"name": "Ficus benjamina 'Exotica'",
-		"common_name": null
-	},
-	"33215": {
-		"name": "Calyptrocalyx awa",
 		"common_name": null
 	},
 	"33216": {
@@ -5873,14 +5993,6 @@
 	},
 	"33217": {
 		"name": "Ficus consociata",
-		"common_name": null
-	},
-	"33221": {
-		"name": "Calyptrocalyx doxanthus",
-		"common_name": null
-	},
-	"33222": {
-		"name": "Ficus pseudopalma",
 		"common_name": null
 	},
 	"33223": {
@@ -5895,52 +6007,44 @@
 		"name": "Pinus elliottii",
 		"common_name": null
 	},
+	"33228": {
+		"name": "Gymnacranthera eugeniifolia",
+		"common_name": null
+	},
 	"33229": {
 		"name": "Calophyllum retusum",
 		"common_name": null
 	},
-	"33231": {
-		"name": "Calyptrocalyx julianettii",
-		"common_name": null
-	},
 	"33232": {
 		"name": "Horsfieldia polyspherula var. sumatrana",
+		"common_name": "Kumpang"
+	},
+	"33233": {
+		"name": "Fagraea ceilanica (variegated)",
 		"common_name": null
 	},
 	"33234": {
 		"name": "Knema communis",
-		"common_name": null
+		"common_name": "NULL"
 	},
 	"33236": {
 		"name": "Gironniera subaequalis",
 		"common_name": null
 	},
+	"33237": {
+		"name": "Dacrydium elatum",
+		"common_name": "Hoàng dàn giå"
+	},
 	"33238": {
 		"name": "Knema latericia var. latericia",
-		"common_name": null
-	},
-	"33239": {
-		"name": "Callistemon rigidus",
 		"common_name": null
 	},
 	"33240": {
 		"name": "Nageia motleyi",
 		"common_name": null
 	},
-	"33241": {
-		"name": "Calyptrocalyx polyphyllus",
-		"common_name": null
-	},
-	"33243": {
-		"name": "Calyptrocalyx spicatus",
-		"common_name": null
-	},
 	"33244": {
 		"name": "Podocarpus dispermus",
-		"common_name": null
-	},
-	"33245": {
-		"name": "Calyptrogyne ghiesbrechtiana",
 		"common_name": null
 	},
 	"33246": {
@@ -5953,10 +6057,6 @@
 	},
 	"33249": {
 		"name": "Cassine quadrangulata",
-		"common_name": null
-	},
-	"33250": {
-		"name": "Xanthophyllum amoenum",
 		"common_name": null
 	},
 	"33251": {
@@ -5979,24 +6079,12 @@
 		"name": "Lindsayomyrtus racemoides",
 		"common_name": null
 	},
-	"33259": {
-		"name": "Melaleuca genistifolia 'Golden Gem'",
-		"common_name": null
-	},
-	"33264": {
-		"name": "Chamaedorea ernesti-augusti",
-		"common_name": null
-	},
 	"33265": {
 		"name": "Garcinia parviflora",
 		"common_name": null
 	},
 	"33267": {
 		"name": "Chuniophoenix hainanensis",
-		"common_name": null
-	},
-	"33268": {
-		"name": "Ardisia polycephala",
 		"common_name": null
 	},
 	"33269": {
@@ -6008,11 +6096,15 @@
 		"common_name": null
 	},
 	"33273": {
-		"name": "Clinostigma sp.",
+		"name": "Clinostigma sp",
 		"common_name": null
 	},
 	"33274": {
 		"name": "Bucida buceras",
+		"common_name": null
+	},
+	"33276": {
+		"name": "Prunus campanulata",
 		"common_name": null
 	},
 	"33277": {
@@ -6023,12 +6115,8 @@
 		"name": "Psidium littorale",
 		"common_name": null
 	},
-	"33279": {
-		"name": "Coccothrinax sp.",
-		"common_name": null
-	},
 	"33280": {
-		"name": "Copernicia sp.",
+		"name": "Copernicia sp",
 		"common_name": null
 	},
 	"33281": {
@@ -6036,19 +6124,11 @@
 		"common_name": null
 	},
 	"33282": {
-		"name": "Terminalia calamansanai",
-		"common_name": null
-	},
-	"33285": {
-		"name": "Cinchona calisaya",
+		"name": "Terminalia cultivar",
 		"common_name": null
 	},
 	"33287": {
 		"name": "Dipterocarpus caudiferus",
-		"common_name": null
-	},
-	"33289": {
-		"name": "Calamus longipes",
 		"common_name": null
 	},
 	"33292": {
@@ -6064,15 +6144,11 @@
 		"common_name": null
 	},
 	"33295": {
-		"name": "Dipterocarpus sp.",
+		"name": "Dipterocarpus sp",
 		"common_name": null
 	},
 	"33296": {
 		"name": "Syzygium attenuatum",
-		"common_name": null
-	},
-	"33297": {
-		"name": "Drymophloeus subdistichus",
 		"common_name": null
 	},
 	"33299": {
@@ -6095,20 +6171,16 @@
 		"name": "Dipterocarpus humeratus",
 		"common_name": null
 	},
-	"33308": {
-		"name": "Syzygium branderhorstii",
-		"common_name": null
-	},
 	"33309": {
 		"name": "Nauclea officinalis",
 		"common_name": null
 	},
 	"33311": {
-		"name": "Syzygium forte ssp. potamophilum",
+		"name": "Syzygium forte subsp. potamophilum",
 		"common_name": null
 	},
 	"33312": {
-		"name": "Dypsis sp.",
+		"name": "Dypsis sp",
 		"common_name": null
 	},
 	"33313": {
@@ -6120,7 +6192,7 @@
 		"common_name": null
 	},
 	"33316": {
-		"name": "Pertusadina eurhyncha",
+		"name": "Adina eurhyncha",
 		"common_name": null
 	},
 	"33317": {
@@ -6135,10 +6207,6 @@
 		"name": "Randia fitzalanii",
 		"common_name": null
 	},
-	"33321": {
-		"name": "Gaussia attenuata",
-		"common_name": null
-	},
 	"33322": {
 		"name": "Shorea sp.",
 		"common_name": null
@@ -6149,10 +6217,6 @@
 	},
 	"33324": {
 		"name": "Magnolia singapurensis",
-		"common_name": null
-	},
-	"33325": {
-		"name": "Gronophyllum pinangoides",
 		"common_name": null
 	},
 	"33326": {
@@ -6179,10 +6243,6 @@
 		"name": "Citrus reticulata",
 		"common_name": null
 	},
-	"33335": {
-		"name": "Heterospathe sp.",
-		"common_name": null
-	},
 	"33336": {
 		"name": "Heterospathe woodfordiana",
 		"common_name": null
@@ -6203,16 +6263,16 @@
 		"name": "Hydriastele macrospadix",
 		"common_name": null
 	},
+	"33342": {
+		"name": "Syzygium formosum",
+		"common_name": null
+	},
 	"33344": {
 		"name": "Syzygium hedraiophyllum",
 		"common_name": null
 	},
 	"33346": {
-		"name": "Hydriastele sp.",
-		"common_name": null
-	},
-	"33347": {
-		"name": "Hyphaene dichotoma",
+		"name": "Hydriastele sp",
 		"common_name": null
 	},
 	"33348": {
@@ -6227,6 +6287,10 @@
 		"name": "Syzygium maingayi",
 		"common_name": null
 	},
+	"33351": {
+		"name": "Kentiopsis oliviformis",
+		"common_name": null
+	},
 	"33354": {
 		"name": "Syzygium minutuliflorum",
 		"common_name": null
@@ -6239,12 +6303,12 @@
 		"name": "Albizia sp.",
 		"common_name": null
 	},
-	"33364": {
-		"name": "Licuala sp.",
+	"33363": {
+		"name": "Ficus delosyce",
 		"common_name": null
 	},
-	"33368": {
-		"name": "Livistona australis (dwarf)",
+	"33364": {
+		"name": "Licuala sp",
 		"common_name": null
 	},
 	"33369": {
@@ -6265,6 +6329,10 @@
 	},
 	"33376": {
 		"name": "Hopea subalata",
+		"common_name": null
+	},
+	"33377": {
+		"name": "Cassia sp.",
 		"common_name": null
 	},
 	"33378": {
@@ -6289,10 +6357,10 @@
 	},
 	"33384": {
 		"name": "Mauritia flexuosa",
-		"common_name": null
+		"common_name": "Aguaje"
 	},
 	"33385": {
-		"name": "Syzygium wilsonii ssp. cryptophlebium",
+		"name": "Syzygium wilsonii subsp. cryptophlebium",
 		"common_name": null
 	},
 	"33386": {
@@ -6300,11 +6368,7 @@
 		"common_name": null
 	},
 	"33387": {
-		"name": "Shorea curtisii ssp. grandis",
-		"common_name": null
-	},
-	"33389": {
-		"name": "Flindersia iflaiana",
+		"name": "Shorea curtisii subsp. grandis",
 		"common_name": null
 	},
 	"33390": {
@@ -6323,20 +6387,12 @@
 		"name": "Shorea hopeifolia",
 		"common_name": null
 	},
-	"33396": {
-		"name": "Merrillia caloxylon",
-		"common_name": null
-	},
 	"33397": {
 		"name": "Shorea johorensis",
-		"common_name": "Meranti Majau"
+		"common_name": "Majau"
 	},
 	"33400": {
 		"name": "Parkia sp.",
-		"common_name": null
-	},
-	"33403": {
-		"name": "Pterocarpus sp.",
 		"common_name": null
 	},
 	"33404": {
@@ -6345,10 +6401,6 @@
 	},
 	"33406": {
 		"name": "Shorea longisperma",
-		"common_name": null
-	},
-	"33407": {
-		"name": "Orania sp.",
 		"common_name": null
 	},
 	"33408": {
@@ -6407,10 +6459,6 @@
 		"name": "Glenniea philippinensis",
 		"common_name": null
 	},
-	"33426": {
-		"name": "Pinanga grandis",
-		"common_name": null
-	},
 	"33429": {
 		"name": "Strombosia ceylanica",
 		"common_name": null
@@ -6423,32 +6471,16 @@
 		"name": "Harpullia pendula",
 		"common_name": null
 	},
-	"33432": {
-		"name": "Pinanga pachyphylla",
-		"common_name": null
-	},
 	"33433": {
 		"name": "Barringtonia sp.",
 		"common_name": null
 	},
-	"33434": {
-		"name": "Pinanga pectinata",
+	"33435": {
+		"name": "Ligustrum sinense",
 		"common_name": null
 	},
 	"33437": {
 		"name": "Pinanga sp.",
-		"common_name": null
-	},
-	"33438": {
-		"name": "Ptychosperma cuneatum",
-		"common_name": null
-	},
-	"33440": {
-		"name": "Koelreuteria bipinnata",
-		"common_name": null
-	},
-	"33441": {
-		"name": "Planchonia sp.",
 		"common_name": null
 	},
 	"33442": {
@@ -6467,10 +6499,6 @@
 		"name": "Ptychococcus paradoxus",
 		"common_name": null
 	},
-	"33446": {
-		"name": "Ptychosperma caryotoides",
-		"common_name": null
-	},
 	"33447": {
 		"name": "Cryptocarya mackinnoniana",
 		"common_name": null
@@ -6481,6 +6509,10 @@
 	},
 	"33449": {
 		"name": "Nephelium cuspidatum var. robustum",
+		"common_name": null
+	},
+	"33450": {
+		"name": "Cinnamomum burmanii f. heyneanum",
 		"common_name": null
 	},
 	"33451": {
@@ -6507,8 +6539,12 @@
 		"name": "Ptychosperma nicolai",
 		"common_name": null
 	},
+	"33461": {
+		"name": "Ptychosperma salomonense",
+		"common_name": null
+	},
 	"33462": {
-		"name": "Diospyros treganuensis",
+		"name": "Diospyros trengganuensis",
 		"common_name": null
 	},
 	"33467": {
@@ -6531,8 +6567,12 @@
 		"name": "Quercus subsericea",
 		"common_name": null
 	},
-	"33473": {
-		"name": "Aglaia sp.",
+	"33476": {
+		"name": "Planchonella myrsinodendron",
+		"common_name": null
+	},
+	"33477": {
+		"name": "Memecylon sp.",
 		"common_name": null
 	},
 	"33478": {
@@ -6541,10 +6581,6 @@
 	},
 	"33479": {
 		"name": "Rhopaloblaste elegans",
-		"common_name": null
-	},
-	"33480": {
-		"name": "Rhopaloblaste sp.",
 		"common_name": null
 	},
 	"33481": {
@@ -6559,16 +6595,8 @@
 		"name": "Picrasma javanica",
 		"common_name": null
 	},
-	"33486": {
-		"name": "Elaeocarpus nitidus",
-		"common_name": null
-	},
 	"33487": {
 		"name": "Sindora supa",
-		"common_name": null
-	},
-	"33490": {
-		"name": "Hevea brasiliensis 'GT 1'",
 		"common_name": null
 	},
 	"33491": {
@@ -6603,16 +6631,12 @@
 		"name": "Eucalyptus sp.",
 		"common_name": null
 	},
-	"33500": {
-		"name": "Schippia concolor",
-		"common_name": null
-	},
-	"33501": {
-		"name": "Vitex glabrata",
-		"common_name": null
-	},
 	"33502": {
 		"name": "Saraca declinata (Red)",
+		"common_name": "NULL"
+	},
+	"33503": {
+		"name": "Syagrus sp.",
 		"common_name": null
 	},
 	"33504": {
@@ -6627,16 +6651,16 @@
 		"name": "Pimelodendron griffithianum",
 		"common_name": null
 	},
+	"33510": {
+		"name": "Saraca asoca",
+		"common_name": null
+	},
 	"33511": {
 		"name": "Socratea exorrhiza",
 		"common_name": null
 	},
 	"33512": {
 		"name": "Acacia farnesiana",
-		"common_name": null
-	},
-	"33514": {
-		"name": "Thrinax sp.",
 		"common_name": null
 	},
 	"33515": {
@@ -6711,14 +6735,6 @@
 		"name": "Cassia 'Rainbow Shower'",
 		"common_name": null
 	},
-	"33543": {
-		"name": "Centrolobium tomentosum",
-		"common_name": null
-	},
-	"33544": {
-		"name": "Lonchocarpus violaceus",
-		"common_name": null
-	},
 	"33545": {
 		"name": "Barnebydendron riedelii",
 		"common_name": null
@@ -6751,20 +6767,12 @@
 		"name": "Lepisanthes sp.",
 		"common_name": null
 	},
-	"33556": {
-		"name": "Stemonurus sp.",
-		"common_name": null
-	},
 	"33557": {
 		"name": "Vitex sp.",
 		"common_name": null
 	},
 	"33559": {
 		"name": "Pithecellobium albicaule",
-		"common_name": null
-	},
-	"33561": {
-		"name": "Potoxylon melagangai",
 		"common_name": null
 	},
 	"33562": {
@@ -6779,10 +6787,6 @@
 		"name": "Pandanus sp.",
 		"common_name": null
 	},
-	"33568": {
-		"name": "Connarus semidecandrus",
-		"common_name": null
-	},
 	"33570": {
 		"name": "Parashorea sp.",
 		"common_name": null
@@ -6795,12 +6799,12 @@
 		"name": "Gmelina macrophylla",
 		"common_name": null
 	},
-	"33575": {
-		"name": "Chloroxylon swietenia",
-		"common_name": null
-	},
 	"33585": {
 		"name": "Gardenia coronaria",
+		"common_name": null
+	},
+	"33589": {
+		"name": "Ficus kochummeniana",
 		"common_name": null
 	},
 	"33595": {
@@ -6811,8 +6815,136 @@
 		"name": "Horsfieldia punctatifolia",
 		"common_name": null
 	},
+	"33609": {
+		"name": "Gardenia jasminoides 'Absolute'",
+		"common_name": null
+	},
+	"33622": {
+		"name": "Musa acuminata (AAA Group) 'Dwarf Cavendish'",
+		"common_name": "Enano"
+	},
+	"33623": {
+		"name": "Mangifera pajang",
+		"common_name": null
+	},
 	"33625": {
 		"name": "Scolopia macrophylla",
 		"common_name": "Pokok rukam gajah"
+	},
+	"33630": {
+		"name": "Dipterocarpus tuberculatus",
+		"common_name": null
+	},
+	"33723": {
+		"name": "Knema intermedia",
+		"common_name": "Pala Paya"
+	},
+	"33725": {
+		"name": "Calliandra parvifolia",
+		"common_name": "Powderpuff"
+	},
+	"33735": {
+		"name": "Diospyros frutescens",
+		"common_name": null
+	},
+	"33784": {
+		"name": "Psidium guajava (black guava)",
+		"common_name": "Black Guava"
+	},
+	"33810": {
+		"name": "Colubrina beccariana",
+		"common_name": null
+	},
+	"33820": {
+		"name": "Mentha arvensis 'Banana'",
+		"common_name": null
+	},
+	"33826": {
+		"name": "Microcos paniculata",
+		"common_name": null
+	},
+	"33827": {
+		"name": "Cynometra mannii",
+		"common_name": null
+	},
+	"33828": {
+		"name": "Alangium salviifolium",
+		"common_name": null
+	},
+	"33830": {
+		"name": "Crudia chrysantha",
+		"common_name": null
+	},
+	"33835": {
+		"name": "Beilschmiedia madang",
+		"common_name": null
+	},
+	"33840": {
+		"name": "Terminalia bentzoe",
+		"common_name": null
+	},
+	"33846": {
+		"name": "Vatica diospyroides",
+		"common_name": null
+	},
+	"33904": {
+		"name": "Ficus altissima",
+		"common_name": null
+	},
+	"33906": {
+		"name": "Syzygium nemestrinum",
+		"common_name": null
+	},
+	"33907": {
+		"name": "Cerbera manghas (Variegated)",
+		"common_name": null
+	},
+	"33918": {
+		"name": "Aporosa penangensis",
+		"common_name": null
+	},
+	"33920": {
+		"name": "Barringtonia reticulata",
+		"common_name": null
+	},
+	"33922": {
+		"name": "Cleistanthus myrianthus",
+		"common_name": null
+	},
+	"33923": {
+		"name": "Garcinia cataractalis",
+		"common_name": null
+	},
+	"33925": {
+		"name": "Planchonia valida",
+		"common_name": null
+	},
+	"33926": {
+		"name": "Shorea kuantanensis",
+		"common_name": null
+	},
+	"33928": {
+		"name": "OMT Tree",
+		"common_name": null
+	},
+	"33955": {
+		"name": "Barringtonia macrocarpa",
+		"common_name": null
+	},
+	"34000": {
+		"name": "Memecylon paniculatum",
+		"common_name": null
+	},
+	"34001": {
+		"name": "Hopea bracteata",
+		"common_name": null
+	},
+	"34002": {
+		"name": "Hopea sulcata",
+		"common_name": null
+	},
+	"34034": {
+		"name": "Bauhinia sp.",
+		"common_name": null
 	}
 }
