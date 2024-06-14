@@ -1,7 +1,7 @@
 import { html, render } from 'lit';
 import Papa from 'papaparse';
 
-const DATA_API_ROOT = 'https://data.exploretrees.sg/';
+const DATA_API_ROOT = 'https://pianoman244.github.io/exploretrees-stpauls/data-stpauls/';
 
 const speciesFamily = {};
 const fColorsMap = {};
@@ -149,8 +149,8 @@ $layers.onclick = function (e) {
 mapboxgl.accessToken =
   'pk.eyJ1IjoiY2hlZWF1biIsImEiOiJjanF3azBrMjMwM2w1NDNyN3Yzc21saDUzIn0.jNWlsBO-S3uDKdfT9IKT1A';
 const mapBounds = [
-  [103.6016626883025, 1.233357600011331], // sw
-  [104.0381760444838, 1.473818072475055], // ne
+  [-71.6702131354312, 43.149244963702195], // sw
+  [-71.47979607414098, 43.22410318708323], // ne
 ];
 const map = (window._map = new mapboxgl.Map({
   container: 'map',
@@ -890,10 +890,19 @@ const flyToPosition = (lngLat) => {
       });
     });
 
+    /*
     const fetchLines = fetch(DATA_API_ROOT + 'trees.line.txt')
       .then((res) => res.text())
       .then((text) => {
         const coords = polyline.decode(text);
+        return coords;
+      });
+      */
+
+    const fetchLines = fetch(DATA_API_ROOT + 'coords.json')
+      .then((res) => res.text())
+      .then((text) => {
+        const coords = JSON.parse(text)
         return coords;
       });
 
@@ -907,7 +916,8 @@ const flyToPosition = (lngLat) => {
       fetchHeritage,
       familiesSpeciesFetch,
     ]).then(([props, coords, heritageList]) => {
-      // console.log({ props, coords });
+      console.log(props);
+      console.log(coords);
       const metadata = {};
       const data = props.map((p, i) => {
         const {
@@ -924,6 +934,7 @@ const flyToPosition = (lngLat) => {
         const family = speciesFamily[species_id] || null;
         const heritage = heritageList.includes(id);
         const elevation = heritage ? 0.4 : age > 30 ? 0.3 : family ? 0.2 : 0.1;
+        console.log(`family ${family} heritage ${heritage} elevation ${elevation} coords ${coords[i]}`);
         const position = coords[i].concat(elevation);
         metadata[id] = {
           tree_id,

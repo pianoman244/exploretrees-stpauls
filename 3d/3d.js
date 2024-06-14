@@ -17,7 +17,7 @@ const crownEvergreenDRCPath = new URL(
   import.meta.url,
 );
 
-const DATA_API_ROOT = 'https://data.exploretrees.sg/';
+const DATA_API_ROOT = 'https://pianoman244.github.io/exploretrees-stpauls/data-stpauls/';
 
 const ACCESS_TOKEN =
   'pk.eyJ1IjoiY2hlZWF1biIsImEiOiJjanF3azBrMjMwM2w1NDNyN3Yzc21saDUzIn0.jNWlsBO-S3uDKdfT9IKT1A';
@@ -28,7 +28,7 @@ const map = (window._map = new mapboxgl.Map({
   minZoom: 8,
   renderWorldCopies: false,
   hash: true,
-  center: [103.84708968044379, 1.2928590602954841],
+  center: [-71.56993654183722, 43.190144973124156],
   pitch: 65,
   zoom: 17.7,
   customAttribution: [
@@ -57,6 +57,7 @@ fetch(`${DATA_API_ROOT}families-species.json`)
 
 const treesCache = new Map();
 const cleaningData = (d) => {
+  console.log(d);
   const { id, girth: _girth, height_est, species_id } = d.properties;
   const girth = parseFloat((_girth || '0.5').match(/[\d.]+[^\d.]?$/)[0], 10);
   if (treesCache.has(id)) return treesCache.get(id);
@@ -216,7 +217,7 @@ map.once('styledata', () => {
 
   map.addSource('trees-source', {
     type: 'vector',
-    url: 'mapbox://cheeaun.bptkspgy',
+    url: 'http://localhost:8080/data/trees.json',
   });
 
   map.addLayer({

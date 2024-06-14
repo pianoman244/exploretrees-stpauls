@@ -1,0 +1,173 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.5732889,
+                    43.1937594
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "id": "391834",
+                "tree_id": "12428317",
+                "species_id": "1698",
+                "girth": "0.6 - 1.0",
+                "girth_size": "S",
+                "height": ">6 but ≤9",
+                "height_est": 9,
+                "age": 2,
+                "flowering": false,
+                "heritage": false,
+                "position": "-71.5732889,43.1937594",
+                "family": "Lythraceae"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.5734106,
+                    43.1939033
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "id": "245950",
+                "tree_id": "12579183",
+                "species_id": "1907",
+                "girth": "0.6 - 1.0",
+                "girth_size": "S",
+                "height": ">9 but ≤12",
+                "height_est": 12,
+                "age": 5,
+                "flowering": false,
+                "heritage": false,
+                "position": "-71.5734106,43.1939033",
+                "family": "Myrtaceae"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.5735864,
+                    43.1937926
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "id": "288802",
+                "tree_id": "10107575",
+                "species_id": "1907",
+                "girth": "0.6 - 1.0",
+                "girth_size": "S",
+                "height": ">6 but ≤9",
+                "height_est": 9,
+                "age": 24,
+                "flowering": false,
+                "heritage": false,
+                "position": "-71.5735864,43.1937926",
+                "family": "Myrtaceae"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.5734311,
+                    43.1935521
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "id": "376504",
+                "tree_id": "12569594",
+                "species_id": "1731",
+                "girth": "0.0 - 0.5",
+                "girth_size": "XS",
+                "height": ">6 but ≤9",
+                "height_est": 9,
+                "age": 4,
+                "flowering": false,
+                "heritage": false,
+                "position": "-71.5734311,43.1935521",
+                "family": "Magnoliaceae"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.5737625,
+                    43.1937766
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "id": "144226",
+                "tree_id": "11330569",
+                "species_id": "1732",
+                "girth": "0.0 - 0.5",
+                "girth_size": "XS",
+                "height": ">3 but ≤6",
+                "height_est": 6,
+                "age": 2,
+                "flowering": false,
+                "heritage": false,
+                "position": "-71.5737625,43.1937766",
+                "family": "Magnoliaceae"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -71.5728310,
+                    43.1937208
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "id": "288797",
+                "tree_id": "10106229",
+                "species_id": "1907",
+                "girth": "0.6 - 1.0",
+                "girth_size": "S",
+                "height": ">6 but ≤9",
+                "height_est": 9,
+                "age": 24,
+                "flowering": false,
+                "heritage": false,
+                "position": "-71.5728310,43.1937208",
+                "family": "Myrtaceae"
+            }
+        },
+        {
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.1937208,
+                    -71.5728310
+                ]
+            },
+            "type": "Feature",
+            "properties": {
+                "id": "288797",
+                "tree_id": "10106229",
+                "species_id": "1907",
+                "girth": "0.6 - 1.0",
+                "girth_size": "S",
+                "height": ">6 but ≤9",
+                "height_est": 9,
+                "age": 24,
+                "flowering": false,
+                "heritage": false,
+                "position": "43.1937208,-71.5728310",
+                "family": "Myrtaceae"
+            }
+        }
+    ]
+}
