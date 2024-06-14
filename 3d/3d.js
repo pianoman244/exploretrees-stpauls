@@ -31,6 +31,7 @@ const map = (window._map = new mapboxgl.Map({
   center: [-71.56993654183722, 43.190144973124156],
   pitch: 65,
   zoom: 17.7,
+  minZoom: 15,
   customAttribution: [
     '<a href="https://trees.sg/" target="_blank">©️ Trees.sg</a> <a href="http://www.nparks.gov.sg/" target="_blank">©️ National Parks Board</a>',
   ],
@@ -57,7 +58,7 @@ fetch(`${DATA_API_ROOT}families-species.json`)
 
 const treesCache = new Map();
 const cleaningData = (d) => {
-  console.log(d);
+  //console.log(d);
   const { id, girth: _girth, height_est, species_id } = d.properties;
   const girth = parseFloat((_girth || '0.5').match(/[\d.]+[^\d.]?$/)[0], 10);
   if (treesCache.has(id)) return treesCache.get(id);
@@ -232,6 +233,38 @@ map.once('styledata', () => {
     },
   });
 
+  map.addSource('trees-circles', {
+    type: 'geojson',
+    data: 'https://pianoman244.github.io/exploretrees-stpauls/data-stpauls/campus_trees.geojson'  // Replace with your data URL
+  });
+
+  map.addLayer({
+    id: 'trees-circles',
+    type: 'circle',
+    source: 'trees-circles',
+    minzoom: 15,
+    slot: 'middle',
+    paint: {
+      'circle-color': "hsl(137, 47%, 45%)",
+      'circle-radius': [
+        "interpolate",
+        ["exponential", 1.99],
+        ["zoom"],
+        15,
+        2,
+        18.25,
+        10,
+        22,
+        75
+      ],
+      'circle-pitch-scale': 'map',
+      'circle-pitch-alignment': 'map'
+    },
+    
+  }, 'building-extrusion-2');
+  
+  
+
   const minZoom = 15;
   const maxZoom = 19;
   const minHeight = 24;
@@ -242,11 +275,12 @@ map.once('styledata', () => {
 
     // Zoom 19: show all (height > 0)
     // Zoom 15: show trees with height > 24
-    const height = Math.max(
+    /*const height = Math.max(
       0,
       ((zoom - minZoom) / (maxZoom - minZoom)) * (maxHeight - minHeight) +
         minHeight,
-    );
+    );*/
+    const height = 1;
 
     // Pitch 0 - 60: show all trees
     // Pitch 85: cut off query region from top 50%
@@ -313,6 +347,26 @@ map.once('styledata', () => {
 
   treesCrownLayer.deck.setProps({
     effects: [lightingEffect],
+  });
+
+  // Add click event listener for the trees layer
+  map.on('click', (event) => {
+    // If the user clicked on one of your markers, get its information.
+    const features = map.queryRenderedFeatures(event.point, {
+      layers: ['trees-circles'] // replace with your layer name
+    });
+    if (!features.length) {
+      return;
+    }
+    const feature = features[0];
+
+    // Create a popup
+    new mapboxgl.Popup()
+      .setLngLat(feature.geometry.coordinates)
+      .setHTML(`<h3>This is a: ${feature.properties.natural}</h3>
+                <p>Leaf cycle: ${feature.properties.leaf_cycle}</p>
+                <p>Species: ${feature.properties.species}</p>`)
+      .addTo(map);
   });
 });
 
